@@ -1,0 +1,301 @@
+id,class_name,start_time,start_time_tag,duration_value,duration_tag,health_club_name,area,address,attendance_mode,sport_catalog,muscle_group,audience_type
+c0,WOD,2022-10-11T06:00:00+02:00,Morning,60,Normal,Powerbox Amsterdam,Zuid-oost,Keienbergweg 36 1101 GC Amsterdam,Offline,Crossfit,Full body,Intermediate
+c1,Bootcamp,2022-10-11T06:30:58+02:00,Morning,44,Normal,Dope Camp West,West,Reinaert de Vosstraat 33 1055 CL Amsterdam,Offline,"Bootcamp, Fitness",Full body,Beginner
+c2,Butt & Legs Online Workout,2022-10-11T07:00:00+02:00,Morning,45,Normal,BEAT81 - LIVESTREAM,online,Online Class,Online,"Bbb, Bootcamp, Hiit, Other","Booty, Legs",Beginner
+c3,IMPACT strength,2022-10-11T07:00:00+02:00,Morning,45,Normal,Fight District,Centrum,Danzigerbocht 45A 1013 AM Amsterdam,Offline,"Bbb, Boxing, Hiit, Kickboxing, Other","Arms, Chest",Beginner
+c4,Heavybag training all level,2022-10-11T07:00:00+02:00,Morning,45,Normal,Mejiro Gym,Centrum,Lauriergracht 86 1016 RP Amsterdam,Offline,Martial arts,Full body,Beginner
+c5,BBB,2022-10-11T07:00:00+02:00,Morning,45,Normal,The Workout Studio - A,Zuid,Albert Cuypstraat 116A 1072 CZ Amsterdam,Offline,"Bbb, Pre/post-natal","Booty, Core, Legs",Beginner
+c6,High Impact,2022-10-11T07:00:00+02:00,Morning,45,Normal,Gympact,West,Postjesweg 128G 1061AX Amsterdam,Offline,"Bbb, Bootcamp, Boxing, Fitness, Hiit, Other",Full body,Intermediate
+c7,BBB (Booty core legs),2022-10-11T07:00:00+02:00,Morning,45,Normal,The Body Studio Oost,Oost,Dapperstraat 271 1093BS Amsterdam,Offline,Hiit,"Booty, Legs",Intermediate
+c8,RIDE 45,2022-10-11T07:15:00+02:00,Morning,45,Normal,CITY ALPS,Oost,Polderweg 190 1093KP Amsterdam,Offline,"Cycling, Other","Booty, Legs",Beginner
+c9,BBB - Small group,2022-10-11T07:30:00+02:00,Morning,45,Normal,The Workout Lab,Other,Baarsjesweg 289 1058 AG Amsterdam,Offline,"Bbb, Hiit","Booty, Core, Legs",Beginner
+c10,Basic Pilates (hot cabin),2022-10-11T07:45:00+02:00,Morning,30,Short,bbb health boutique Amsterdam Jordaan,Centrum,Hazenstraat 51 1016 SN Amsterdam,Offline,"Fitness, Pilates, Yoga",Booty,Beginner
+c11,bbb30 (hot cabin),2022-10-11T07:45:00+02:00,Morning,30,Short,bbb health boutique Amsterdam Amstel,Centrum,Amstel 163 1018 ET Amsterdam,Offline,"Fitness, Pilates, Yoga","Booty, Legs",Beginner
+c12,ABS & Core Online Workout,2022-10-11T08:00:00+02:00,Morning,45,Normal,BEAT81 - LIVESTREAM,online,Online Class,Online,"Bbb, Bootcamp, Hiit, Other","Booty, Legs",Beginner
+c13,CrossFit,2022-10-11T08:00:00+02:00,Morning,60,Normal,SQM Gym,Zuid,Havenstraat 4 1075LA Amsterdam,Offline,"Bbb, Boxing, Crossfit, Hiit, Kickboxing, Other",Full body,Beginner
+c14,Crosstraining Upper Body,2022-10-11T08:00:00+02:00,Morning,60,Normal,Het Gymlokaal Noord,Noord,Grasweg 53a 53b 1031HX Amsterdam,Offline,"Barre, Bbb, Boxing, Hiit, Kickboxing, Other, Pilates, Yin yoga, Yoga","Arms, Chest",Intermediate
+c15,HOT PILATES,2022-10-11T08:00:00+02:00,Morning,60,Normal,Movements City,Centrum,Utrechtsedwarsstraat 31 1017WB Amsterdam,Offline,"Hot yoga, Pilates, Yin yoga",Full body,Beginner
+c16,HOT PILATES,2022-10-11T08:00:00+02:00,Morning,60,Normal,Movements Yoga,West,Overtoom 230 1054HZ Amsterdam,Offline,"Hot yoga, Mindfulness, Pilates",Full body,Beginner
+c17,Pranayama Yoga Nidra & Meditation,2022-10-11T08:15:00+02:00,Morning,60,Normal,Divine Soul Yoga,Zuid,Bernissestraat 12B 1079 ZW Amsterdam,Offline,"Mindfulness, Yin yoga, Yoga",Full body,Beginner
+c18,Kickboxing - bagtraining,2022-10-11T08:30:00+02:00,Morning,60,Normal,Eastbound Gym,Oost,Tweede van Swindenstraat 1 1093VE Amsterdam,Offline,"Bbb, Boxing, Kickboxing, Other, Yin yoga, Yoga","Arms, Chest, Legs",Beginner
+c19,Core Flow,2022-10-11T08:30:00+02:00,Morning,60,Normal,Equal Yoga Linnaeusstraat,Oost,Linnaeusstraat 30 1092 CL Amsterdam,Offline,"Hot yoga, Yoga",Full body,Beginner
+c20,Red Light Session,2022-10-11T09:00:00+02:00,Morning,15,Short,Freezlab - Red light therapy,Zuid,Olympisch stadion 36 1076 DE Amsterdam,Offline,Other,Full body,Beginner
+c21,BJJ,2022-10-11T09:00:00+02:00,Morning,60,Normal,Gym Royale,Noord,Klaprozenweg 42 1032 KL Amsterdam,Offline,"Hiit, Kickboxing, Martial arts, Other, Yoga","Arms, Chest, Legs",Beginner
+c22,BBB - Studio B,2022-10-11T09:00:00+02:00,Morning,45,Normal,The Workout Studio - B,Zuid,Albert Cuypstraat 116B 1072 CZ Amsterdam,Offline,Bootcamp,"Booty, Core, Legs",Beginner
+c23,BEGINNERS BAG KICKBOXING,2022-10-11T09:00:00+02:00,Morning,60,Normal,Underground Sportclub,Centrum,Nieuwe Kerkstraat 5k 1018DW Amsterdam,Offline,"Boxing, Crossfit, Hiit, Kickboxing","Arms, Chest, Legs",Beginner
+c24,Reformer - Booty Pump,2022-10-11T09:00:00+02:00,Morning,45,Normal,BodyBase Studios Amsterdam,Zuid,Ceintuurbaan 223 1074 CW Amsterdam,Offline,"Kickboxing, Other","Booty, Legs",Beginner
+c25,Barre + Beats,2022-10-11T09:15:00+02:00,Morning,60,Normal,Studio 191 West,West,Jan Hanzenstraat 54 1053 ST Amsterdam,Offline,"Barre, Dance, Hiit, Other, Pilates, Pre/post-natal, Yoga",Full body,Beginner
+c26,Step & Shape met Rowena,2022-10-11T09:30:00+02:00,Morning,60,Normal,Anytime Fitness Zuidas,Zuid,Wijenburg 90A 1082 VW Amsterdam,Offline,"Barre, Boxing, Crossfit, Dance, Fitness, Other",Full body,Intermediate
+c27,Bad Ass,2022-10-11T09:30:00+02:00,Morning,30,Short,Sport Natural,Noord,Gare du Nord  1022L Amsterdam,Offline,"Dance, Fitness, Other, Yoga",Booty,Beginner
+c28,Zak/ Bag training,2022-10-11T09:45:00+02:00,Morning,60,Normal,The JYM Movement,Centrum,Haarlemmer Houttuinen 519 1013 GM Amsterdam,Offline,"Boxing, Hiit, Martial arts","Arms, Chest, Legs",Beginner
+c29,'ABS'olutely Core,2022-10-11T09:45:00+02:00,Morning,30,Short,Kensho Premium Fitness,Centrum,Czaar Peterstraat 20 1018 PR Amsterdam,Offline,"Barre, Bbb, Body balance, Body shape, Cycling, Dance, Hiit, Kickboxing, Other, Pilates, Steps, Yin yoga, Yoga",Core,Intermediate
+c30,Bootyblast,2022-10-11T10:00:00+02:00,Morning,60,Normal,Clubsportive,Zuid,Gustav Mahlerlaan 24 1082 MC Amsterdam,Offline,"Bbb, Body shape, Boxing, Cycling, Fitness, Hiit, Hot yoga, Other, Pilates, Yin yoga, Yoga","Booty, Core, Legs",Beginner
+c31,Step - Joy,2022-10-11T18:00:00+02:00,Afternoon,60,Normal,Palestra Sports,West,Marius Bauerstraat 233 1062 AH Amsterdam,Offline,"Fitness, Pilates","Booty, Legs",Intermediate
+c32,StepShape,2022-10-11T19:00:00+02:00,Evening,60,Normal,Only4Ladies,Oost,Tweede Oosterparkstraat 79A 1091 HX Amsterdam,Offline,"Bbb, Body shape, Bootcamp, Boxing, Other, Pilates, Steps, Yoga","Booty, Core, Legs",Beginner
+c33,Squash baan,2022-10-11T19:00:00+02:00,Evening,60,Normal,Hotel & Wellness Zuiver Squash,Zuid,Koenenkade 8 1081 KH Amsterdam,Offline,"Fitness, Fun, Other, Racket sports",Arms,Beginner
+c34,breathwork.,2022-10-11T19:00:00+02:00,Evening,60,Normal,Melt Mind & Life,Other,Amsterdamseweg 157 1182 GT Amstelveen,Offline,"Hot yoga, Mindfulness, Pilates, Yoga",Full body,Beginner
+c35,Exotic pole level 1 |107|,2022-10-11T19:00:00+02:00,Evening,60,Normal,Dance For Your Pole,Centrum,Tussen de Bogen 107 1013JB Amsterdam,Offline,Pole dance,Full body,Beginner
+c36,Pole Dance level 3 |105|,2022-10-11T19:00:00+02:00,Evening,60,Normal,Dance For Your Pole,Centrum,Tussen de Bogen 107 1013JB Amsterdam,Offline,Pole dance,Full body,Beginner
+c37,Stretching All levels |111|,2022-10-11T19:00:00+02:00,Evening,60,Normal,Dance For Your Pole,Centrum,Tussen de Bogen 107 1013JB Amsterdam,Offline,Pole dance,Full body,Beginner
+c38,Spinning,2022-10-11T19:00:00+02:00,Evening,60,Normal,The Crunch Fitness & Healthclub,Noord,Vlierweg 44 1032 LG Amsterdam,Offline,"Bootcamp, Boxing, Crossfit, Cycling, Dance, Fitness, Pilates, Yoga",Full body,Intermediate
+c39,StepShape,2022-10-11T19:30:00+02:00,Evening,60,Normal,Kensho Premium Fitness,Centrum,Czaar Peterstraat 20 1018 PR Amsterdam,Offline,"Barre, Bbb, Body balance, Body shape, Cycling, Dance, Hiit, Kickboxing, Other, Pilates, Steps, Yin yoga, Yoga","Booty, Core, Legs",Intermediate
+c40,Ballet - Beginners,2022-10-11T19:45:00+02:00,Evening,90,Long,Zhembrovskyy de Pijp,Zuid,Van Woustraat 149Hs 1073RX Amsterdam,Offline,"Dance, Other",Full body,Beginner
+c41,Barre Burn,2022-10-11T19:45:00+02:00,Evening,60,Normal,JSX Studio De Pijp,Zuid,Van Ostadestraat 105 1072 ST Amsterdam,Offline,Barre,Full body,Beginner
+c42,BJJ,2022-10-11T20:00:00+02:00,Evening,60,Normal,Gym Royale,Noord,Klaprozenweg 42 1032 KL Amsterdam,Offline,"Hiit, Kickboxing, Martial arts, Other, Yoga","Arms, Chest, Legs",Beginner
+c43,BJJ no Gi,2022-10-12T07:00:00+02:00,Morning,60,Normal,Gym Royale,Noord,Klaprozenweg 42 1032 KL Amsterdam,Offline,"Hiit, Kickboxing, Martial arts, Other, Yoga","Arms, Chest, Legs",Advanced
+c44,StepShape | Garage |,2022-10-12T09:00:00+02:00,Morning,55,Normal,Femme Gym,West,Vancouverstraat 6hs 1056 DV Amsterdam,Offline,"Barre, Bbb, Body shape, Bootcamp, Boxing, Cycling, Dance, Essentrics, Hiit, Kickboxing, Other, Pilates, Pre/post-natal, Steps, Yin yoga, Yoga","Booty, Core, Legs",Beginner
+c45,Step gevorderd - Sydney,2022-10-12T09:00:06+02:00,Morning,60,Normal,Palestra Sports,West,Marius Bauerstraat 233 1062 AH Amsterdam,Offline,"Fitness, Pilates","Booty, Legs",Intermediate
+c46,Step & Shape,2022-10-12T09:30:00+02:00,Morning,50,Normal,Olympic Gym Amsterdam,Zuid,Olympisch Stadion 23 1076 DE Amsterdam,Offline,"Bootcamp, Fitness, Other","Booty, Legs",Beginner
+c47,Pole Dance Flow |107|,2022-10-12T10:30:00+02:00,Morning,60,Normal,Dance For Your Pole,Centrum,Tussen de Bogen 107 1013JB Amsterdam,Offline,Pole dance,Full body,Beginner
+c48,STEP ADVANCED,2022-10-12T17:30:00+02:00,Afternoon,60,Normal,Health Club Jordaan,Centrum,Eerste Rozendwarsstraat 10 1016 PC Amsterdam,Offline,"Dance, Other","Booty, Legs",Advanced
+c49,STEPS,2022-10-12T18:00:00+02:00,Afternoon,60,Normal,Louiszoon Health Club Amsterdam,West,Eliza van Calcarstraat 2 1068 RR Amsterdam,Offline,"Bootcamp, Boxing, Cycling, Dance, Fitness, Pilates, Yoga","Booty, Legs",Beginner
+c50,Abs Legs and Butt Workout,2022-10-12T18:00:00+02:00,Afternoon,45,Normal,Fight District,Centrum,Danzigerbocht 45A 1013 AM Amsterdam,Offline,"Bbb, Boxing, Hiit, Kickboxing, Other","Booty, Legs",Beginner
+c51,step advanced,2022-10-12T18:00:00+02:00,Afternoon,60,Normal,Splash,Centrum,Lijnbaansgracht 241 1017 PH Amsterdam,Offline,"Bootcamp, Boxing, Cycling, Dance, Fitness, Other, Pilates, Yoga","Booty, Legs",Advanced
+c52,FC Urban Amsterdam,2022-10-12T19:00:00+02:00,Evening,60,Normal,FC Urban Amsterdam,Noord,Tt. Vasumweg 61 61  1033 SE Amsterdam,Offline,Fun,Full body,Beginner
+c53,Open Gym,2022-10-12T19:00:00+02:00,Evening,60,Normal,Double Shift,Centrum,Lauriergracht 102H 1016 RP Amsterdam,Offline,"Fitness, Other","Arms, Legs",Beginner
+c54,W.O.D.,2022-10-12T20:00:00+02:00,Evening,50,Normal,The Workout Studio - B,Zuid,Albert Cuypstraat 116B 1072 CZ Amsterdam,Offline,Bootcamp,Full body,Intermediate
+c55,Bodyshape by Miguel,2022-10-13T08:00:00+02:00,Morning,60,Normal,Gym3,Other,Zetterij 3 1185 ZZ Amstelveen,Offline,"Bootcamp, Boxing, Fitness, Martial arts",Full body,Beginner
+c56,Massage Intense,2022-10-13T10:00:00+02:00,Morning,30,Short,Relax Lounge,Centrum,Kerkstraat 163 1017 GG Amsterdam,Offline,"Fitness, Mindfulness, Other, Wellness",Full body,Beginner
+c57,WOD,2022-10-14T18:30:00+02:00,Afternoon,60,Normal,OutdoorGym Amsterdam,West,Jan van Galenstraat 315 1056AW Amsterdam,Offline,Bootcamp,Full body,Intermediate
+c58,Bodyshape,2022-10-14T18:30:00+02:00,Afternoon,60,Normal,Only4Ladies,Oost,Tweede Oosterparkstraat 79A 1091 HX Amsterdam,Offline,"Bbb, Body shape, Bootcamp, Boxing, Other, Pilates, Steps, Yoga",Full body,Beginner
+c59,Massage Intense,2022-10-14T18:30:00+02:00,Afternoon,30,Short,Relax Lounge,Centrum,Kerkstraat 163 1017 GG Amsterdam,Offline,"Fitness, Mindfulness, Other, Wellness",Full body,Beginner
+c60,Zumba met Nevita,2022-10-14T18:30:00+02:00,Afternoon,60,Normal,Anytime Fitness Zuidas,Zuid,Wijenburg 90A 1082 VW Amsterdam,Offline,"Barre, Boxing, Crossfit, Dance, Fitness, Other",Full body,Intermediate
+c61,Massage,2022-10-14T18:30:00+02:00,Afternoon,20,Short,House of Seiyou,Zuid,Cornelis Schuytstraat 46A 1071 JL Amsterdam,Offline,Wellness,Full body,Beginner
+c62,Deep Relax Session,2022-10-14T18:30:00+02:00,Afternoon,75,Long,Natural Flow Yoga,Zuid-oost,Lemelerbergweg 32 1101 AH Amsterdam,Offline,"Pilates, Yin yoga, Yoga",Full body,Beginner
+c63,Contemporary Jazz Beginner/Intermediate,2022-10-14T18:30:00+02:00,Afternoon,75,Long,ChassÃ© Dance Studios,West,ChassÃ©straat 64  1057 JJ Amsterdam,Offline,Dance,Full body,Beginner
+c64,Femme Confidence Heels,2022-10-14T18:30:00+02:00,Afternoon,60,Normal,ChassÃ© Dance Studios,West,ChassÃ©straat 64  1057 JJ Amsterdam,Offline,Dance,Full body,Beginner
+c65,mma/BJJ,2022-10-14T18:30:00+02:00,Afternoon,75,Long,Fight District,Centrum,Danzigerbocht 45A 1013 AM Amsterdam,Offline,"Bbb, Boxing, Hiit, Kickboxing, Other","Arms, Chest, Legs",Beginner
+c66,SPINNING,2022-10-14T18:30:00+02:00,Afternoon,60,Normal,Health Club Jordaan,Centrum,Eerste Rozendwarsstraat 10 1016 PC Amsterdam,Offline,"Dance, Other","Booty, Legs",Advanced
+c67,Ashtanga yoga,2022-10-14T18:30:00+02:00,Afternoon,75,Long,Yoga Spot Olympisch Stadion,Zuid,Laan der Hesperiden 142Olympic Amsterdam 1076 DX Amsterdam,Offline,"Mindfulness, Other, Pilates, Yoga",Full body,Beginner
+c68,VeGym Training,2022-10-14T18:30:00+02:00,Afternoon,30,Short,Vondelgym Zuid - Fitness,Zuid,Eduard van Beinumstraat 110 1077 ZZ Amsterdam,Offline,"Bootcamp, Boxing, Crossfit, Fitness, Fun, Hiit, Kickboxing, Martial arts, Mindfulness, Other, Running",Full body,Beginner
+c69,Aerial Yoga,2022-10-14T18:30:00+02:00,Afternoon,75,Long,TULA Yoga,West,Bos en Lommerplein 175 1055 AD Amsterdam,Offline,Other,Full body,Beginner
+c70,Zelfstandig boulderen,2022-10-14T19:00:00+02:00,Evening,120,Long,Mountain Network Amsterdam,West,Erasmusgracht 297 1061 MD Amsterdam,Offline,"Bouldering, Other",Legs,Beginner
+c71,Vrij trainen,2022-10-14T19:00:00+02:00,Evening,60,Normal,Finally Fit,Oost,Oosterparkstraat 85 1091HZ Amsterdam,Offline,"Bbb, Boxing, Crossfit, Hiit, Kickboxing, Other, Yoga",Full body,Beginner
+c72,Techniek- gemengd,2022-10-14T19:00:00+02:00,Evening,60,Normal,Vos Gym Amsterdam,West,Van Slingelandtstraat 33a 1051CG Amsterdam,Offline,"Boxing, Hiit",Legs,Beginner
+c73,"Calisthenics Fundamentals ""Upper Body Push"" (Beginners)",2022-10-14T19:00:00+02:00,Evening,60,Normal,Calisthenics Amsterdam,Noord,Nieuwendammerdijk 538 1023 BX Amsterdam,Offline,Other,"Arms, Chest",Beginner
+c74,Vrije Fitness,2022-10-14T19:00:00+02:00,Evening,120,Long,Gym3,Other,Zetterij 3 1185 ZZ Amstelveen,Offline,"Bootcamp, Boxing, Fitness, Martial arts",Full body,Beginner
+c75,Ladies Only,2022-10-14T19:00:00+02:00,Evening,60,Normal,CPS Workout (Cardio Power Souplesse),West,Confuciusplein 1 1064 LG Amsterdam,Offline,"Bootcamp, Boxing, Fitness, Martial arts",Full body,Beginner
+c76,Collageenbank sessie,2022-10-14T19:00:00+02:00,Evening,30,Short,Reloadclub Ladies Only,Oost,Halmaheirastraat 28 1094 RL Amsterdam,Offline,"Dance, Fitness, Mindfulness, Pilates, Wellness, Yoga",Full body,Beginner
+c77,Omni Vinyasa,2022-10-15T09:00:00+02:00,Morning,60,Normal,The White Door Studio,West,Visseringstraat 39h 1051 KH Amsterdam,Offline,Yoga,Full body,Beginner
+c78,Kickboxing - bagtraining,2022-10-15T09:30:00+02:00,Morning,60,Normal,Eastbound Gym,Oost,Tweede van Swindenstraat 1 1093VE Amsterdam,Offline,"Bbb, Boxing, Kickboxing, Other, Yin yoga, Yoga","Arms, Chest, Legs",Beginner
+c79,Kickboxing,2022-10-15T10:00:00+02:00,Morning,60,Normal,Change= 24/7 Healthclub,Zuid-oost,ELIZABETH CADY STANTONPLEIN 6-1006 1102 BL AMSTERDAM,Offline,"Bbb, Bootcamp, Hiit, Kickboxing, Other","Arms, Chest, Legs",Beginner
+c80,Kickboxing - bagtraining,2022-10-15T10:30:00+02:00,Morning,60,Normal,Eastbound Gym,Oost,Tweede van Swindenstraat 1 1093VE Amsterdam,Offline,"Bbb, Boxing, Kickboxing, Other, Yin yoga, Yoga","Arms, Chest, Legs",Beginner
+c81,Power - Upper Body,2022-10-15T11:00:00+02:00,Morning,50,Normal,The Workout Studio - A,Zuid,Albert Cuypstraat 116A 1072 CZ Amsterdam,Offline,"Bbb, Pre/post-natal",Full body,Intermediate
+c82,Kickboxing - All levels,2022-10-15T11:30:00+02:00,Morning,60,Normal,Eastbound Gym,Oost,Tweede van Swindenstraat 1 1093VE Amsterdam,Offline,"Bbb, Boxing, Kickboxing, Other, Yin yoga, Yoga","Arms, Chest, Legs",Beginner
+c83,KICKBOXING BAGS,2022-10-15T12:15:00+02:00,Morning,50,Normal,Sin City Boxing,Zuid,Rijnstraat 93 1079HA Amsterdam,Offline,"Bbb, Boxing, Hiit, Kickboxing","Arms, Chest, Legs",Beginner
+c84,BAG KICKBOXING HIIT,2022-10-16T09:00:00+02:00,Morning,45,Normal,Underground Sportclub,Centrum,Nieuwe Kerkstraat 5k 1018DW Amsterdam,Offline,"Boxing, Crossfit, Hiit, Kickboxing","Arms, Chest, Legs",Intermediate
+c85,BAG KICKBOXING HIIT,2022-10-16T10:00:00+02:00,Morning,45,Normal,Underground Sportclub,Centrum,Nieuwe Kerkstraat 5k 1018DW Amsterdam,Offline,"Boxing, Crossfit, Hiit, Kickboxing","Arms, Chest, Legs",Intermediate
+c86,BEGINNERS BAG KICKBOXING,2022-10-16T11:00:00+02:00,Morning,60,Normal,Underground Sportclub,Centrum,Nieuwe Kerkstraat 5k 1018DW Amsterdam,Offline,"Boxing, Crossfit, Hiit, Kickboxing","Arms, Chest, Legs",Beginner
+c87,Kickboxing - All levels,2022-10-16T11:30:00+02:00,Morning,60,Normal,Eastbound Gym,Oost,Tweede van Swindenstraat 1 1093VE Amsterdam,Offline,"Bbb, Boxing, Kickboxing, Other, Yin yoga, Yoga","Arms, Chest, Legs",Beginner
+c88,BAG KICKBOXING TECHNIQUE,2022-10-16T12:00:00+02:00,Morning,60,Normal,Underground Sportclub,Centrum,Nieuwe Kerkstraat 5k 1018DW Amsterdam,Offline,"Boxing, Crossfit, Hiit, Kickboxing","Arms, Chest, Legs",Intermediate
+c89,Kickboxing - bagtraining,2022-10-16T12:30:00+02:00,Morning,60,Normal,Eastbound Gym,Oost,Tweede van Swindenstraat 1 1093VE Amsterdam,Offline,"Bbb, Boxing, Kickboxing, Other, Yin yoga, Yoga","Arms, Chest, Legs",Beginner
+c90,LADIES ONLY Kickboxing,2022-10-16T13:00:00+02:00,Afternoon,60,Normal,Mousid Gym,Oost,Polderweg 300 1093 KP Amsterdam,Offline,Martial arts,"Arms, Chest, Legs",Beginner
+c91,BAG KICKBOXING HIIT,2022-10-17T16:00:00+02:00,Afternoon,45,Normal,Underground Sportclub,Centrum,Nieuwe Kerkstraat 5k 1018DW Amsterdam,Offline,"Boxing, Crossfit, Hiit, Kickboxing","Arms, Chest, Legs",Intermediate
+c92,Strictly kickboxing,2022-10-17T16:15:00+02:00,Afternoon,59,Normal,The JYM Movement,Centrum,Haarlemmer Houttuinen 519 1013 GM Amsterdam,Offline,"Boxing, Hiit, Martial arts","Arms, Chest, Legs",Intermediate
+c93,BAG KICKBOXING HIIT,2022-10-17T17:00:00+02:00,Afternoon,45,Normal,Underground Sportclub,Centrum,Nieuwe Kerkstraat 5k 1018DW Amsterdam,Offline,"Boxing, Crossfit, Hiit, Kickboxing","Arms, Chest, Legs",Intermediate
+c94,Kickboxing - Beginners,2022-10-17T18:00:00+02:00,Afternoon,60,Normal,Eastbound Gym,Oost,Tweede van Swindenstraat 1 1093VE Amsterdam,Offline,"Bbb, Boxing, Kickboxing, Other, Yin yoga, Yoga","Arms, Chest, Legs",Beginner
+c95,KICKBOXING PADS + SPARRING (OPTIONAL),2022-10-17T18:00:00+02:00,Afternoon,60,Normal,Underground Sportclub,Centrum,Nieuwe Kerkstraat 5k 1018DW Amsterdam,Offline,"Boxing, Crossfit, Hiit, Kickboxing","Arms, Chest, Legs",Intermediate
+c96,BAG KICKBOXING HIIT,2022-10-17T18:00:00+02:00,Afternoon,45,Normal,Underground Sportclub,Centrum,Nieuwe Kerkstraat 5k 1018DW Amsterdam,Offline,"Boxing, Crossfit, Hiit, Kickboxing","Arms, Chest, Legs",Intermediate
+c97,RORIDE,2022-10-17T18:00:00+02:00,Afternoon,45,Normal,Rocycle Amsterdam - Oost,Oost,Eerste Oosterparkstraat 92 1091HE Amsterdam,Offline,Cycling,Legs,Intermediate
+c98,RORIDE,2022-10-17T18:00:00+02:00,Afternoon,45,Normal,Rocycle Amsterdam - De Pijp,Zuid,Ceintuurbaan 77 1072EW Amsterdam,Offline,Cycling,Legs,Intermediate
+c99,RORIDE,2022-10-17T18:00:00+02:00,Afternoon,45,Normal,Rocycle Amsterdam - Zuidas,Zuid,Gustav Mahlerlaan 635 1082 MX Amsterdam,Offline,Cycling,Legs,Intermediate
+c100,RORIDE,2022-10-17T18:00:00+02:00,Afternoon,45,Normal,Rocycle Amsterdam - City,Centrum,Nieuwe Passeerdersstraat 12 1016 XP Amsterdam,Offline,Cycling,Legs,Intermediate
+c101,Kickboxing,2022-10-17T18:00:00+02:00,Afternoon,45,Normal,BodyBase Studios Amsterdam,Zuid,Ceintuurbaan 223 1074 CW Amsterdam,Offline,"Kickboxing, Other","Arms, Chest, Legs",Beginner
+c102,Beginner,2022-10-17T18:00:00+02:00,Afternoon,50,Normal,Pilates 13 De Pijp,Zuid,Ceintuurbaan 197 1074 CV Amsterdam,Offline,Pilates,Full body,Beginner
+c103,Barre + Beats,2022-10-17T18:00:00+02:00,Afternoon,60,Normal,Studio 191 West,West,Jan Hanzenstraat 54 1053 ST Amsterdam,Offline,"Barre, Dance, Hiit, Other, Pilates, Pre/post-natal, Yoga",Full body,Beginner
+c104,IMPACT HIIT,2022-10-17T18:30:00+02:00,Afternoon,45,Normal,Fight District,Centrum,Danzigerbocht 45A 1013 AM Amsterdam,Offline,"Bbb, Boxing, Hiit, Kickboxing, Other","Arms, Chest, Legs",Intermediate
+c105,Pilates All Levels ( English ),2022-10-17T18:30:00+02:00,Afternoon,60,Normal,Pilates Noord,Noord,Waddenweg 4 1025 PV Amsterdam,Offline,"Pilates, Pre/post-natal",Full body,Beginner
+c106,Pilates,2022-10-17T18:30:00+02:00,Afternoon,60,Normal,You Can Yoga,Zuid,Aalsmeerweg 25 1059 AJ Amsterdam,Offline,Yoga,Full body,Beginner
+c107,Pilates,2022-10-17T18:30:00+02:00,Afternoon,60,Normal,Studio 9 Pilates,Oost,Middenweg 67f 1098AE Amsterdam,Offline,Pilates,Full body,Beginner
+c108,Reformer Pilates - Peach Perfect,2022-10-17T18:45:00+02:00,Afternoon,45,Normal,BodyBase Studios Amsterdam,Zuid,Ceintuurbaan 223 1074 CW Amsterdam,Offline,"Kickboxing, Other",Full body,Advanced
+c109,Indoor Pilates Core Fit,2022-10-17T19:00:00+02:00,Evening,50,Normal,ImoveAmsterdam Boutique,West,Revaleiland 500 1014 ZG Amsterdam,Offline,"Barre, Pilates, Yoga",Full body,Beginner
+c110,kracht,2022-10-17T19:00:00+02:00,Evening,60,Normal,De Gymzaal,West,Pieter van der Doesstraat 15C 1056 VB Amsterdam,Offline,"Hiit, Other",Full body,Intermediate
+c111,Power - Full Body,2022-10-17T19:00:00+02:00,Evening,50,Normal,The Workout Studio - B,Zuid,Albert Cuypstraat 116B 1072 CZ Amsterdam,Offline,Bootcamp,Booty,Beginner
+c112,Step fun (MID/ADVANCE),2022-10-17T19:00:00+02:00,Evening,60,Normal,Splash,Centrum,Lijnbaansgracht 241 1017 PH Amsterdam,Offline,"Bootcamp, Boxing, Cycling, Dance, Fitness, Other, Pilates, Yoga","Booty, Legs",Intermediate
+c113,Massage Intense,2022-10-17T10:30:00+02:00,Morning,30,Short,Relax Lounge,Centrum,Kerkstraat 163 1017 GG Amsterdam,Offline,"Fitness, Mindfulness, Other, Wellness",Full body,Beginner
+c114,Workout Of the Day,2022-10-17T08:30:00+02:00,Morning,60,Normal,Reebok CrossFit 020,Zuid-oost,Hoogoorddreef 3 1101 BA Amsterdam,Offline,Crossfit,Legs,Beginner
+c115,'ABS'olutely Core,2022-10-11T17:30:00+02:00,Afternoon,30,Short,Kensho Premium Fitness,Centrum,Czaar Peterstraat 20 1018 PR Amsterdam,Offline,"Barre, Bbb, Body balance, Body shape, Cycling, Dance, Hiit, Kickboxing, Other, Pilates, Steps, Yin yoga, Yoga",Core,Intermediate
+c116,Open Fitness,2022-10-17T10:00:00+02:00,Morning,60,Normal,Louiszoon Health Club Amsterdam,West,Eliza van Calcarstraat 2 1068 RR Amsterdam,Offline,"Bootcamp, Boxing, Cycling, Dance, Fitness, Pilates, Yoga","Booty, Legs",Beginner
+c117,Massage Refresh,2022-10-13T20:45:00+02:00,Evening,30,Short,Relax Lounge,Centrum,Kerkstraat 163 1017 GG Amsterdam,Offline,"Fitness, Mindfulness, Other, Wellness",Full body,Beginner
+c118,Fitness,2022-10-14T15:00:00+02:00,Afternoon,60,Normal,SQM Gym,Zuid,Veerstraat 73 1075SP Amsterdam,Offline,"Bbb, Boxing, Crossfit, Hiit, Kickboxing, Other",Full body,Beginner
+c119,Detroit Flow,2022-10-13T19:30:00+02:00,Evening,60,Normal,Yoga Den,Zuid,Zeilstraat 34H 1075 SJ Amsterdam,Offline,Yoga,Full body,Beginner
+c120,Functional Pilates,2022-10-14T09:15:00+02:00,Morning,45,Normal,AmstelGym (formerly: Trend Fitness),Oost,Amstelstroomlaan 2 1096 GL Amsterdam,Offline,"Hiit, Other, Pilates",Full body,Beginner
+c121,Boxing - Bagtraining,2022-10-11T07:30:00+02:00,Morning,60,Normal,Eastbound Gym,Oost,Tweede van Swindenstraat 1 1093VE Amsterdam,Offline,"Bbb, Boxing, Kickboxing, Other, Yin yoga, Yoga","Arms, Chest, Legs",Beginner
+c122,HIIT Circuit,2022-10-12T18:00:00+02:00,Afternoon,45,Normal,HIIT FIT West,West,Nieuwpoortkade 17 1055 RX Amsterdam,Offline,Hiit,"Arms, Chest, Legs",Intermediate
+c123,Zaktraining,2022-10-14T09:00:00+02:00,Morning,55,Normal,Femme Gym,West,Vancouverstraat 6hs 1056 DV Amsterdam,Offline,"Barre, Bbb, Body shape, Bootcamp, Boxing, Cycling, Dance, Essentrics, Hiit, Kickboxing, Other, Pilates, Pre/post-natal, Steps, Yin yoga, Yoga",Legs,Beginner
+c124,Spin & Pump,2022-10-15T11:00:00+02:00,Morning,60,Normal,Sportplaza Mercator Fitness,West,Jan van Galenstraat 315 1056 CB Amsterdam,Offline,"Fitness, Other",Full body,Beginner
+c125,ZhemFit,2022-10-15T11:30:00+02:00,Morning,60,Normal,Zhembrovskyy de Pijp,Zuid,Van Woustraat 149Hs 1073RX Amsterdam,Offline,"Dance, Other",Full body,Beginner
+c126,KROSSFIT WOD,2022-10-15T11:00:00+02:00,Morning,45,Normal,Underground Sportclub,Centrum,Nieuwe Kerkstraat 5k 1018DW Amsterdam,Offline,"Boxing, Crossfit, Hiit, Kickboxing","Arms, Chest, Legs",Intermediate
+c127,Open Gym,2022-10-14T07:00:00+02:00,Morning,60,Normal,Gympact,West,Postjesweg 128G 1061AX Amsterdam,Offline,"Bbb, Bootcamp, Boxing, Fitness, Hiit, Other",Legs,Beginner
+c128,Core Power,2022-10-13T07:00:00+02:00,Morning,60,Normal,Equal Yoga Rozengracht,Centrum,Rozengracht 191 1016 LZ Amsterdam,Offline,"Bbb, Hot yoga, Yoga",Full body,Beginner
+c129,Padel baanverhuur,2022-10-17T12:00:00+02:00,Morning,60,Normal,Frans Otten Padel,Zuid,IJsbaanpad 43 1076 CV Amsterdam,Offline,Racket sports,Full body,Beginner
+c130,BODYSHAPE,2022-10-17T09:00:00+02:00,Morning,60,Normal,Health Club Jordaan,Centrum,Eerste Rozendwarsstraat 10 1016 PC Amsterdam,Offline,"Dance, Other","Booty, Legs",Advanced
+c131,Thaiboxing Technique Class,2022-10-17T19:30:00+02:00,Evening,60,Normal,Patricks Gym,West,August AllebÃ©plein 43  1062AB Amsterdam,Offline,"Boxing, Hiit, Kickboxing, Martial arts","Arms, Chest, Legs",Beginner
+c132,Full Body HIIT,2022-10-12T17:00:00+02:00,Afternoon,45,Normal,Gym Royale,Noord,Klaprozenweg 42 1032 KL Amsterdam,Offline,"Hiit, Kickboxing, Martial arts, Other, Yoga","Arms, Chest, Legs",Intermediate
+c133,Kickboksen - Zaktraining,2022-10-12T09:00:00+02:00,Morning,60,Normal,Het Gymlokaal West,West,Dr jan van breemenstraat 3 1056AB Amsterdam,Offline,"Barre, Boxing, Crossfit, Hiit, Kickboxing, Other, Pilates, Pre/post-natal, Yin yoga, Yoga",Full body,Intermediate
+c134,Total Body Strength Workout,2022-10-17T08:00:00+02:00,Morning,45,Normal,Kensho Premium Fitness,Centrum,Czaar Peterstraat 20 1018 PR Amsterdam,Offline,"Barre, Bbb, Body balance, Body shape, Cycling, Dance, Hiit, Kickboxing, Other, Pilates, Steps, Yin yoga, Yoga","Booty, Core",Intermediate
+c135,Vrij Padellen met 4 personen,2022-10-13T16:00:00+02:00,Afternoon,90,Long,Padel Dam,West,Tom Schreursweg 14 1067 MC Amsterdam,Offline,Racket sports,Full body,Beginner
+c136,10 minute Tanning Session,2022-10-16T09:45:00+02:00,Morning,15,Short,Freezlab - Tanning,Zuid,Olympisch Stadion 36 1076 DE Amsterdam,Offline,Wellness,Full body,Beginner
+c137,VeGym Training,2022-10-12T10:30:00+02:00,Morning,30,Short,Vondelgym Zuid - Fitness,Zuid,Eduard van Beinumstraat 110 1077 ZZ Amsterdam,Offline,"Bootcamp, Boxing, Crossfit, Fitness, Fun, Hiit, Kickboxing, Martial arts, Mindfulness, Other, Running",Full body,Beginner
+c138,Prenatal + Postnatal Yoga / Pilates {all women welcome},2022-10-12T13:00:00+02:00,Afternoon,60,Normal,The Cosmos - de Pijp,Zuid,Lutmastraat 191B 1074 TV Amsterdam,Offline,"Pilates, Pre/post-natal, Yin yoga, Yoga",Full body,Beginner
+c139,Critical Alignment Yoga,2022-10-11T11:30:00+02:00,Morning,75,Long,Fresh Fitness,Zuid,Tolstraat 59 1073 RW Amsterdam,Offline,"Boxing, Cycling, Dance, Fitness, Hiit, Other, Pilates, Yoga",Full body,Beginner
+c140,STRENGTH (PLYOMETRICS),2022-10-13T07:30:00+02:00,Morning,45,Normal,CITY ALPS,Oost,Polderweg 190 1093KP Amsterdam,Offline,"Cycling, Other","Booty, Legs",Beginner
+c141,Vrije Fitness,2022-10-11T07:00:00+02:00,Morning,120,Long,Gym3,Other,Zetterij 3 1185 ZZ Amstelveen,Offline,"Bootcamp, Boxing, Fitness, Martial arts",Full body,Beginner
+c142,Open Gym,2022-10-17T11:00:00+02:00,Morning,60,Normal,Vondelgym Zuid - Fitness,Zuid,Eduard van Beinumstraat 110 1077 ZZ Amsterdam,Offline,"Bootcamp, Boxing, Crossfit, Fitness, Fun, Hiit, Kickboxing, Martial arts, Mindfulness, Other, Running",Full body,Beginner
+c143,BOOTY HIIT,2022-10-11T18:00:00+02:00,Afternoon,30,Short,Health Club Jordaan,Centrum,Eerste Rozendwarsstraat 10 1016 PC Amsterdam,Offline,"Dance, Other","Booty, Legs",Intermediate
+c144,Vinyasa,2022-10-14T10:00:00+02:00,Morning,90,Long,Delight Yoga Amsterdam,Centrum,Weteringschans 53 1017 DG Amsterdam,Offline,Yoga,Full body,Beginner
+c145,Freez Session,2022-10-13T11:15:00+02:00,Morning,15,Short,Freezlab whole body cryo,Zuid,Olympisch stadion 36 1076 DE Amsterdam,Offline,Other,Full body,Beginner
+c146,Vinyasa flow 60min,2022-10-11T07:30:00+02:00,Morning,60,Normal,TULA Yoga,Centrum,Houtrijkstraat 38 1013 VD Amsterdam,Offline,Other,Full body,Beginner
+c147,Freez Session,2022-10-17T19:00:00+02:00,Evening,15,Short,Freezlab whole body cryo,Zuid,Olympisch stadion 36 1076 DE Amsterdam,Offline,Other,Full body,Beginner
+c148,Power Pilates_,2022-10-12T13:00:00+02:00,Afternoon,60,Normal,The Cosmos - West,West,Douwes Dekkerstraat 30 1053 SX Amsterdam,Offline,"Mindfulness, Pilates, Pre/post-natal, Yin yoga, Yoga",Full body,Beginner
+c149,Exotic Pole,2022-10-13T20:15:00+02:00,Evening,60,Normal,Pole Dance Factory Amsterdam - Noord,Noord,Digitaalstraat 12 1033 MR Amsterdam,Offline,Pole dance,Full body,Beginner
+c150,Spinny Pole Essentials,2022-10-16T11:00:00+02:00,Morning,60,Normal,Pole Dance Factory Amsterdam - Oost,Oost,V6  1096 AN Amsterdam,Offline,"Aerial, Dance, Pole dance",Full body,Beginner
+c151,HIT & Run - Basic,2022-10-11T08:00:00+02:00,Morning,50,Normal,The Workout Lab,Other,Baarsjesweg 289 1058 AG Amsterdam,Offline,"Bbb, Hiit","Booty, Core, Legs",Beginner
+c152,Goddess Activation Dance,2022-10-13T18:30:00+02:00,Afternoon,75,Long,Studio 205,Noord,Zamenhofstraat 112suite 205 1022 AG Amsterdam,Offline,"Aerial, Dance, Other",Full body,Beginner
+c153,Mobility & Bodyweight training - ZUU fitness,2022-10-12T20:30:00+02:00,Evening,45,Normal,The JYM Movement,Centrum,Haarlemmer Houttuinen 519 1013 GM Amsterdam,Offline,"Boxing, Hiit, Martial arts","Arms, Legs",Intermediate
+c154,VeGym Training,2022-10-16T14:00:00+02:00,Afternoon,30,Short,Vondelgym Zuid - Fitness,Zuid,Eduard van Beinumstraat 110 1077 ZZ Amsterdam,Offline,"Bootcamp, Boxing, Crossfit, Fitness, Fun, Hiit, Kickboxing, Martial arts, Mindfulness, Other, Running",Full body,Beginner
+c155,Workout of the Day,2022-10-12T07:00:00+02:00,Morning,60,Normal,CrossFit Vastberaden,Oost,Veemkade 1288 1019 CZ Amsterdam,Offline,Crossfit,Legs,Beginner
+c156,RORIDE,2022-10-17T19:00:00+02:00,Evening,45,Normal,Rocycle Amsterdam - Oost,Oost,Eerste Oosterparkstraat 92 1091HE Amsterdam,Offline,Cycling,Legs,Intermediate
+c157,HIIT outdoor,2022-10-12T09:30:00+02:00,Morning,60,Normal,Buenting Sport,Other,Acacialaan 18 1185 RE Amstelveen,Offline,"Bbb, Body shape, Bootcamp, Crossfit, Fitness, Hiit, Kickboxing, Martial arts, Other, Pilates, Yoga","Arms, Chest, Legs",Intermediate
+c158,Total Body Strength Workout,2022-10-17T12:00:00+02:00,Morning,45,Normal,Kensho Premium Fitness,Centrum,Czaar Peterstraat 20 1018 PR Amsterdam,Offline,"Barre, Bbb, Body balance, Body shape, Cycling, Dance, Hiit, Kickboxing, Other, Pilates, Steps, Yin yoga, Yoga","Booty, Core",Intermediate
+c159,CIRCUIT TRAINING,2022-10-17T07:00:00+02:00,Morning,45,Normal,Gym Forty Five Amsterdam,West,maassluisstraat 101 1062GA Amsterdam,Offline,"Bbb, Other",Legs,Beginner
+c160,Crystal massage & Relax Yoga,2022-10-17T20:30:00+02:00,Evening,60,Normal,Yuyoga & Lifestyle,Oost,Weesperzijde 79A 1091 EJ Amsterdam,Offline,Yoga,Full body,Beginner
+c161,AerialYoga Slow Flow,2022-10-12T21:00:00+02:00,Evening,60,Normal,Rasalila,West,Tweede Kostverlorenkade 67 1053 SB Amsterdam,Offline,"Aerial, Dance, Pole dance, Yoga",Full body,Beginner
+c162,W.O.D.,2022-10-13T18:00:00+02:00,Afternoon,50,Normal,The Workout Studio - B,Zuid,Albert Cuypstraat 116B 1072 CZ Amsterdam,Offline,Bootcamp,Full body,Intermediate
+c163,EMS Training,2022-10-13T11:30:00+02:00,Morning,30,Short,EMS Health Studio - EMS training,West,Langsom 28 1066 EW Amsterdam,Offline,Other,"Core, Legs",Beginner
+c164,P13 Reformer,2022-10-12T18:00:00+02:00,Afternoon,50,Normal,Pilates 13 De Pijp,Zuid,Ceintuurbaan 197 1074 CV Amsterdam,Offline,Pilates,Full body,Beginner
+c165,Open Gym,2022-10-13T09:00:00+02:00,Morning,60,Normal,Smart Fit,Oost,Molukkenstraat 200 1098 TW Amsterdam,Offline,"Fitness, Fun",Legs,Beginner
+c166,'ABS'olutely Core,2022-10-13T09:00:00+02:00,Morning,30,Short,Kensho Premium Fitness,Centrum,Czaar Peterstraat 20 1018 PR Amsterdam,Offline,"Barre, Bbb, Body balance, Body shape, Cycling, Dance, Hiit, Kickboxing, Other, Pilates, Steps, Yin yoga, Yoga",Core,Intermediate
+c167,BAG BOXING BEGINNERS,2022-10-15T10:00:00+02:00,Morning,60,Normal,Underground Sportclub,Centrum,Nieuwe Kerkstraat 5k 1018DW Amsterdam,Offline,"Boxing, Crossfit, Hiit, Kickboxing","Arms, Chest, Legs",Intermediate
+c168,Vrij trainen,2022-10-13T07:00:00+02:00,Morning,60,Normal,Finally Fit,Oost,Oosterparkstraat 85 1091HZ Amsterdam,Offline,"Bbb, Boxing, Crossfit, Hiit, Kickboxing, Other, Yoga",Full body,Beginner
+c169,StepShape,2022-10-16T11:00:00+02:00,Morning,60,Normal,Only4Ladies,Oost,Tweede Oosterparkstraat 79A 1091 HX Amsterdam,Offline,"Bbb, Body shape, Bootcamp, Boxing, Other, Pilates, Steps, Yoga","Booty, Core, Legs",Beginner
+c170,Zaktraining,2022-10-15T11:00:00+02:00,Morning,60,Normal,Empowergym,West,Marcantilaan 397 1051 MJ Amsterdam,Offline,"Kickboxing, Other",Full body,Beginner
+c171,Power - Full Body,2022-10-11T07:00:00+02:00,Morning,50,Normal,The Workout Studio - B,Zuid,Albert Cuypstraat 116B 1072 CZ Amsterdam,Offline,Bootcamp,Booty,Beginner
+c172,Massage Intense,2022-10-15T14:00:00+02:00,Afternoon,30,Short,Relax Lounge,Centrum,Kerkstraat 163 1017 GG Amsterdam,Offline,"Fitness, Mindfulness, Other, Wellness",Full body,Beginner
+c173,Latin Commercial (Open Level),2022-10-13T19:30:00+02:00,Evening,75,Long,ChassÃ© Dance Studios,West,ChassÃ©straat 64  1057 JJ Amsterdam,Offline,Dance,Full body,Beginner
+c174,Squash baan,2022-10-14T17:00:00+02:00,Afternoon,60,Normal,Hotel & Wellness Zuiver Squash,Zuid,Koenenkade 8 1081 KH Amsterdam,Offline,"Fitness, Fun, Other, Racket sports",Arms,Beginner
+c175,Circuit (Full-Body),2022-10-14T07:00:00+02:00,Morning,45,Normal,The Body Studio Zuid,Other,Heemstedestraat 12 1058NM Amsterdam,Offline,"Bbb, Body shape, Hiit, Running",Core,Beginner
+c176,Skill Workout,2022-10-13T06:15:00+02:00,Morning,45,Normal,Clubsportive,Zuid,Gustav Mahlerlaan 24 1082 MC Amsterdam,Offline,"Bbb, Body shape, Boxing, Cycling, Fitness, Hiit, Hot yoga, Other, Pilates, Yin yoga, Yoga","Booty, Core, Legs",Beginner
+c177,Strong Flow in English,2022-10-12T19:00:00+02:00,Evening,75,Long,Yogaschool Noord,Noord,Nachtegaalstraat 157Zonzaal 1021 EZ Amsterdam,Offline,"Mindfulness, Pilates, Pre/post-natal, Yin yoga, Yoga",Full body,Beginner
+c178,Traditional Hatha,2022-10-14T12:00:00+02:00,Morning,90,Long,Karunika Spiritual Center,Zuid,Meerhuizenplein 11 1078 TB Amsterdam,Offline,"Mindfulness, Pre/post-natal, Yin yoga, Yoga",Full body,Beginner
+c179,Vinyasa,2022-10-17T07:30:00+02:00,Morning,60,Normal,YogaZentrum Nada,West,Zuidermolenweg 7 1069 CE Amsterdam,Offline,"Pilates, Yin yoga, Yoga",Full body,Beginner
+c180,Weerbaarheidstraining,2022-10-15T10:15:00+02:00,Morning,60,Normal,CPS Workout (Cardio Power Souplesse),West,Confuciusplein 1 1064 LG Amsterdam,Offline,"Bootcamp, Boxing, Fitness, Martial arts",Full body,Beginner
+c181,RORIDE,2022-10-11T09:00:00+02:00,Morning,45,Normal,Rocycle Amsterdam - Zuidas,Zuid,Gustav Mahlerlaan 635 1082 MX Amsterdam,Offline,Cycling,Legs,Intermediate
+c182,Easy Fit,2022-10-12T09:00:00+02:00,Morning,60,Normal,Louiszoon Health Club Amsterdam,West,Eliza van Calcarstraat 2 1068 RR Amsterdam,Offline,"Bootcamp, Boxing, Cycling, Dance, Fitness, Pilates, Yoga","Booty, Legs",Beginner
+c183,Banen zwemmen,2022-10-12T13:00:23+02:00,Afternoon,60,Normal,Zuiderbad,Zuid,Hobbemastraat 26 1071 ZC Amsterdam,Offline,Swimming,Full body,Beginner
+c184,YIN YOGA,2022-10-13T08:30:00+02:00,Morning,60,Normal,Health Club Jordaan,Centrum,Eerste Rozendwarsstraat 10 1016 PC Amsterdam,Offline,"Dance, Other","Booty, Legs",Beginner
+c185,Freez Session,2022-10-13T10:00:00+02:00,Morning,10,Short,Freezlab whole body cryo,Zuid,Olympisch stadion 36 1076 DE Amsterdam,Offline,Other,Full body,Beginner
+c186,10 minute Tanning Session,2022-10-17T08:30:00+02:00,Morning,15,Short,Freezlab - Tanning,Zuid,Olympisch Stadion 36 1076 DE Amsterdam,Offline,Wellness,Full body,Beginner
+c187,Freez Session,2022-10-16T11:30:00+02:00,Morning,10,Short,Freezlab whole body cryo,Zuid,Olympisch stadion 36 1076 DE Amsterdam,Offline,Other,Full body,Beginner
+c188,Iyengar Yoga,2022-10-17T11:00:00+02:00,Morning,75,Long,Fresh Fitness,Zuid,Tolstraat 59 1073 RW Amsterdam,Offline,"Boxing, Cycling, Dance, Fitness, Hiit, Other, Pilates, Yoga",Full body,Beginner
+c189,HIIT Circuit,2022-10-11T19:00:00+02:00,Evening,45,Normal,HIIT FIT West,West,Nieuwpoortkade 17 1055 RX Amsterdam,Offline,Hiit,"Arms, Chest, Legs",Intermediate
+c190,HOT C,2022-10-16T09:00:00+02:00,Morning,60,Normal,Movements Yoga,West,Overtoom 230 1054HZ Amsterdam,Offline,"Hot yoga, Mindfulness, Pilates",Full body,Beginner
+c191,Indoor Barre Express,2022-10-14T12:00:00+02:00,Morning,45,Normal,ImoveAmsterdam Boutique,West,Revaleiland 500 1014 ZG Amsterdam,Offline,"Barre, Pilates, Yoga",Full body,Beginner
+c192,Total Body Strength Workout,2022-10-16T16:15:00+02:00,Afternoon,45,Normal,Kensho Premium Fitness,Centrum,Czaar Peterstraat 20 1018 PR Amsterdam,Offline,"Barre, Bbb, Body balance, Body shape, Cycling, Dance, Hiit, Kickboxing, Other, Pilates, Steps, Yin yoga, Yoga","Booty, Core",Intermediate
+c193,HOT C 90,2022-10-11T11:00:00+02:00,Morning,90,Long,Movements Yoga,West,Overtoom 230 1054HZ Amsterdam,Offline,"Hot yoga, Mindfulness, Pilates",Full body,Beginner
+c194,Open Gym,2022-10-11T16:00:00+02:00,Afternoon,60,Normal,Smart Fit,Oost,Molukkenstraat 200 1098 TW Amsterdam,Offline,"Fitness, Fun",Legs,Beginner
+c195,Core Flow,2022-10-14T08:30:00+02:00,Morning,60,Normal,Equal Yoga Hoofdweg,West,Hoofdweg 122 1057DA Amsterdam,Offline,"Hot yoga, Yin yoga",Full body,Beginner
+c196,RORIDE,2022-10-14T10:00:00+02:00,Morning,45,Normal,Rocycle Amsterdam - City,Centrum,Nieuwe Passeerdersstraat 12 1016 XP Amsterdam,Offline,Cycling,Legs,Intermediate
+c197,Timeslot,2022-10-16T15:00:00+02:00,Afternoon,60,Normal,AmstelGym (formerly: Trend Fitness),Oost,Amstelstroomlaan 2 1096 GL Amsterdam,Offline,"Hiit, Other, Pilates",Full body,Intermediate
+c198,Freez Session,2022-10-16T11:00:00+02:00,Morning,10,Short,Freezlab whole body cryo,Zuid,Olympisch stadion 36 1076 DE Amsterdam,Offline,Other,Full body,Beginner
+c199,ABS & Core Online Workout,2022-10-15T09:00:00+02:00,Morning,45,Normal,BEAT81 - LIVESTREAM,online,Online Class,Online,"Bbb, Bootcamp, Hiit, Other","Booty, Legs",Beginner
+c200,Vrij trainen,2022-10-14T16:00:00+02:00,Afternoon,60,Normal,Finally Fit,Oost,Oosterparkstraat 85 1091HZ Amsterdam,Offline,"Bbb, Boxing, Crossfit, Hiit, Kickboxing, Other, Yoga",Full body,Beginner
+c201,VijÃ±Äna Yoga Beginners,2022-10-12T09:30:00+02:00,Morning,90,Long,Samana Yoga Center,Centrum,Droogbak 11 1013 GG Amsterdam,Offline,Yoga,Full body,Beginner
+c202,Open Gym,2022-10-15T17:00:00+02:00,Afternoon,60,Normal,Vondelgym Zuid - Fitness,Zuid,Eduard van Beinumstraat 110 1077 ZZ Amsterdam,Offline,"Bootcamp, Boxing, Crossfit, Fitness, Fun, Hiit, Kickboxing, Martial arts, Mindfulness, Other, Running",Full body,Beginner
+c203,Hiphop Open Level,2022-10-12T19:15:00+02:00,Evening,75,Long,ChassÃ© Dance Studios,West,ChassÃ©straat 64  1057 JJ Amsterdam,Offline,Dance,Full body,Beginner
+c204,STRENGHT 45,2022-10-17T07:00:00+02:00,Morning,45,Normal,Great Zuid,Zuid,Ruysdaelstraat 88-90 1071XH Amsterdam,Offline,"Barre, Bbb, Boxing, Hiit, Other, Pilates, Yin yoga, Yoga",Full body,Beginner
+c205,Massage Refresh,2022-10-16T15:45:00+02:00,Afternoon,30,Short,Relax Lounge,Centrum,Kerkstraat 163 1017 GG Amsterdam,Offline,"Fitness, Mindfulness, Other, Wellness",Full body,Beginner
+c206,10 minute Tanning Session,2022-10-17T20:00:00+02:00,Evening,15,Short,Freezlab - Tanning,Zuid,Olympisch Stadion 36 1076 DE Amsterdam,Offline,Wellness,Full body,Beginner
+c207,Yoga (Arjanne) do 18:15,2022-10-15T09:45:00+02:00,Morning,90,Long,Sai Mithra Yoga,Centrum,Sint Antoniesbreestraat 102 1011 HB Amsterdam,Offline,Yoga,Full body,Beginner
+c208,VeGym Training,2022-10-14T20:30:00+02:00,Evening,30,Short,Vondelgym Zuid - Fitness,Zuid,Eduard van Beinumstraat 110 1077 ZZ Amsterdam,Offline,"Bootcamp, Boxing, Crossfit, Fitness, Fun, Hiit, Kickboxing, Martial arts, Mindfulness, Other, Running",Full body,Beginner
+c209,VeGym Training,2022-10-16T17:00:00+02:00,Afternoon,30,Short,Vondelgym Zuid - Fitness,Zuid,Eduard van Beinumstraat 110 1077 ZZ Amsterdam,Offline,"Bootcamp, Boxing, Crossfit, Fitness, Fun, Hiit, Kickboxing, Martial arts, Mindfulness, Other, Running",Full body,Beginner
+c210,Fitness individueel,2022-10-11T10:30:00+02:00,Morning,90,Long,Buenting Sport,Other,Acacialaan 18 1185 RE Amstelveen,Offline,"Bbb, Body shape, Bootcamp, Crossfit, Fitness, Hiit, Kickboxing, Martial arts, Other, Pilates, Yoga",Full body,Beginner
+c211,Freez Session,2022-10-17T16:45:00+02:00,Afternoon,15,Short,Freezlab whole body cryo,Zuid,Olympisch stadion 36 1076 DE Amsterdam,Offline,Other,Full body,Beginner
+c212,ROWSTUDIO RIPPED,2022-10-11T08:00:00+02:00,Morning,45,Normal,RowStudio Amsterdam,Zuid,Stadhouderskade 155 1074BC Amsterdam,Offline,"Bbb, Other",Legs,Beginner
+c213,Massage Intense,2022-10-11T12:30:00+02:00,Morning,30,Short,Relax Lounge,Centrum,Kerkstraat 163 1017 GG Amsterdam,Offline,"Fitness, Mindfulness, Other, Wellness",Full body,Beginner
+c214,Workout Of the Day,2022-10-14T06:30:00+02:00,Morning,60,Normal,Reebok CrossFit 020,Zuid-oost,Hoogoorddreef 3 1101 BA Amsterdam,Offline,Crossfit,Legs,Beginner
+c215,Open Gym,2022-10-14T07:00:00+02:00,Morning,60,Normal,Fight District,Centrum,Danzigerbocht 45A 1013 AM Amsterdam,Offline,"Bbb, Boxing, Hiit, Kickboxing, Other","Arms, Chest, Legs",Beginner
+c216,Aerial Silks intermediate,2022-10-13T18:45:00+02:00,Afternoon,75,Long,Pole Dance Factory Amsterdam - Oost,Oost,V6  1096 AN Amsterdam,Offline,"Aerial, Dance, Pole dance",Full body,Beginner
+c217,Freez Session,2022-10-13T18:15:00+02:00,Afternoon,15,Short,Freezlab whole body cryo,Zuid,Olympisch stadion 36 1076 DE Amsterdam,Offline,Other,Full body,Beginner
+c218,Fysio Pilates,2022-10-11T10:45:00+02:00,Morning,60,Normal,Thrive Yoga Oost,Oost,Tweede Atjehstraat 55 1094 LD Amsterdam,Offline,Yoga,Full body,Beginner
+c219,Deep Relax (All levels),2022-10-11T10:30:00+02:00,Morning,60,Normal,Sukha Yoga,Zuid,Ceintuurbaan 243 1074 CX Amsterdam,Offline,"Mindfulness, Yin yoga, Yoga",Full body,Beginner
+c220,Gentle Flow,2022-10-11T20:15:00+02:00,Evening,60,Normal,Yogaschool Noord,Noord,Nachtegaalstraat 157Zonzaal 1021 EZ Amsterdam,Offline,"Mindfulness, Pilates, Pre/post-natal, Yin yoga, Yoga",Full body,Beginner
+c221,basic flow 32C.,2022-10-11T17:30:00+02:00,Afternoon,60,Normal,Melt Mind & Life,Other,Amsterdamseweg 157 1182 GT Amstelveen,Offline,"Hot yoga, Mindfulness, Pilates, Yoga",Full body,Beginner
+c222,Superles Mama,2022-10-17T19:30:00+02:00,Evening,60,Normal,Bluebirds West,West,Jan Evertsenstraat 4 1056 EC Amsterdam,Offline,"Barre, Mindfulness, Pilates, Pre/post-natal, Yin yoga, Yoga",Full body,Beginner
+c223,Hatha Vinyasa Yoga,2022-10-17T18:15:00+02:00,Afternoon,90,Long,Studio Reyn,Oost,Zeeburgerpad 74 1019 AD Amsterdam,Offline,Yoga,Full body,Beginner
+c224,Freez Session,2022-10-17T17:00:00+02:00,Afternoon,15,Short,Freezlab whole body cryo,Zuid,Olympisch stadion 36 1076 DE Amsterdam,Offline,Other,Full body,Beginner
+c225,Strong Flow,2022-10-17T16:00:00+02:00,Afternoon,60,Normal,Equal Yoga Linnaeusstraat,Oost,Linnaeusstraat 30 1092 CL Amsterdam,Offline,"Hot yoga, Yoga",Full body,Beginner
+c226,Ashtanga Led Half Primary,2022-10-15T08:00:00+02:00,Morning,90,Long,Ashtanga Vinyasa Yoga Shala,Oost,Levantplein 18 1019 MK Amsterdam,Offline,Yoga,Full body,Beginner
+c227,Circuit Training,2022-10-12T09:30:00+02:00,Morning,60,Normal,Only4Ladies,Oost,Tweede Oosterparkstraat 79A 1091 HX Amsterdam,Offline,"Bbb, Body shape, Bootcamp, Boxing, Other, Pilates, Steps, Yoga",Full body,Beginner
+c228,Reformer - Coregasm,2022-10-15T09:45:00+02:00,Morning,45,Normal,BodyBase Studios Amsterdam,Zuid,Ceintuurbaan 223 1074 CW Amsterdam,Offline,"Kickboxing, Other",Legs,Beginner
+c229,Massage Intense,2022-10-12T17:00:00+02:00,Afternoon,30,Short,Relax Lounge,Centrum,Kerkstraat 163 1017 GG Amsterdam,Offline,"Fitness, Mindfulness, Other, Wellness",Full body,Beginner
+c230,10 minute Tanning Session,2022-10-14T12:45:00+02:00,Morning,15,Short,Freezlab - Tanning,Zuid,Olympisch Stadion 36 1076 DE Amsterdam,Offline,Wellness,Full body,Beginner
+c231,YIN YOGA 60,2022-10-12T19:30:00+02:00,Evening,60,Normal,Great Zuid,Zuid,Ruysdaelstraat 88-90 1071XH Amsterdam,Offline,"Barre, Bbb, Boxing, Hiit, Other, Pilates, Yin yoga, Yoga",Full body,Beginner
+c232,Afro Grooves & Foundations (Beginners),2022-10-11T18:30:00+02:00,Afternoon,75,Long,Dancing with Confidence at Sabou Dance Academy,Centrum,Haparandaweg 57 1013 BD Amsterdam,Offline,Dance,Full body,Beginner
+c233,Open gym,2022-10-12T13:00:00+02:00,Afternoon,60,Normal,Het Gymlokaal West,West,Dr jan van breemenstraat 3 1056AB Amsterdam,Offline,"Barre, Boxing, Crossfit, Hiit, Kickboxing, Other, Pilates, Pre/post-natal, Yin yoga, Yoga","Arms, Chest",Beginner
+c234,Onefit vrije training,2022-10-17T20:15:00+02:00,Evening,60,Normal,Change= Health Club West,West,Jan van galenstraat 41 1056BH Amsterdam,Offline,"Bbb, Bootcamp, Hiit, Kickboxing, Other","Booty, Core, Legs",Beginner
+c235,Massage,2022-10-11T17:30:00+02:00,Afternoon,20,Short,House of Seiyou,Zuid,Cornelis Schuytstraat 46A 1071 JL Amsterdam,Offline,Wellness,Full body,Beginner
+c236,Boxing sparring,2022-10-12T19:00:00+02:00,Evening,60,Normal,Vos Gym Amsterdam,West,Van Slingelandtstraat 33a 1051CG Amsterdam,Offline,"Boxing, Hiit","Arms, Chest, Legs",Beginner
+c237,Pole beginners 2,2022-10-15T11:30:00+02:00,Morning,75,Long,Pole Dance Factory Amsterdam - Noord,Noord,Digitaalstraat 12 1033 MR Amsterdam,Offline,Pole dance,Full body,Beginner
+c238,Massage,2022-10-12T13:30:00+02:00,Afternoon,20,Short,House of Seiyou,Zuid,Cornelis Schuytstraat 46A 1071 JL Amsterdam,Offline,Wellness,Full body,Beginner
+c239,Baby + Me Yoga / Pilates {all women welcome},2022-10-12T11:45:00+02:00,Morning,60,Normal,The Cosmos - de Pijp,Zuid,Lutmastraat 191B 1074 TV Amsterdam,Offline,"Pilates, Pre/post-natal, Yin yoga, Yoga",Full body,Beginner
+c240,Sweet Flow (Beginner),2022-10-15T09:30:00+02:00,Morning,60,Normal,Sukha Yoga,Zuid,Ceintuurbaan 243 1074 CX Amsterdam,Offline,"Mindfulness, Yin yoga, Yoga",Full body,Beginner
+c241,Yoga | Yin | Stomerij |,2022-10-13T20:00:00+02:00,Evening,75,Long,Femme Gym,West,Jan van Galenstraat 96 1056 CD Amsterdam,Offline,"Barre, Bbb, Body shape, Bootcamp, Boxing, Cycling, Dance, Essentrics, Hiit, Kickboxing, Other, Pilates, Pre/post-natal, Steps, Yin yoga, Yoga",Full body,Beginner
+c242,Omni Vinyasa,2022-10-13T07:00:00+02:00,Morning,60,Normal,The White Door Studio,West,Visseringstraat 39h 1051 KH Amsterdam,Offline,Yoga,Full body,Beginner
+c243,HOT FLOW 1,2022-10-17T08:00:00+02:00,Morning,60,Normal,Movements Yoga,West,Overtoom 230 1054HZ Amsterdam,Offline,"Hot yoga, Mindfulness, Pilates",Full body,Beginner
+c244,Freez Session,2022-10-12T12:00:00+02:00,Morning,10,Short,Freezlab whole body cryo,Zuid,Olympisch stadion 36 1076 DE Amsterdam,Offline,Other,Full body,Beginner
+c245,Body awake circuit training,2022-10-15T10:00:00+02:00,Morning,45,Normal,Wijs Fitness & Health club,West,Tweede Hugo de Grootstraat 45 1052 LE Amsterdam,Offline,Fitness,"Booty, Legs",Beginner
+c246,Crosstraining Upper Body,2022-10-17T12:00:00+02:00,Morning,60,Normal,Het Gymlokaal West,West,Dr jan van breemenstraat 3 1056AB Amsterdam,Offline,"Barre, Boxing, Crossfit, Hiit, Kickboxing, Other, Pilates, Pre/post-natal, Yin yoga, Yoga","Arms, Chest",Intermediate
+c247,Never Skip Legday,2022-10-16T11:00:00+02:00,Morning,60,Normal,Eastbound Gym,Oost,Tweede van Swindenstraat 1 1093VE Amsterdam,Offline,"Bbb, Boxing, Kickboxing, Other, Yin yoga, Yoga","Arms, Chest, Legs",Beginner
+c248,OPEN GYM,2022-10-13T08:00:00+02:00,Morning,60,Normal,Gym Forty Five Amsterdam,West,maassluisstraat 101 1062GA Amsterdam,Offline,"Bbb, Other","Arms, Chest, Legs",Beginner
+c249,Afro Choreography (Open Level/Inter.),2022-10-11T20:00:49+02:00,Evening,75,Long,Dancing with Confidence at Sabou Dance Academy,Centrum,Haparandaweg 57 1013 BD Amsterdam,Offline,Dance,Full body,Beginner
+c250,HOT C,2022-10-17T07:00:00+02:00,Morning,60,Normal,Movements Yoga,West,Overtoom 230 1054HZ Amsterdam,Offline,"Hot yoga, Mindfulness, Pilates",Full body,Beginner
+c251,OPEN GYM,2022-10-12T08:00:00+02:00,Morning,60,Normal,Gym Forty Five Amsterdam,West,maassluisstraat 101 1062GA Amsterdam,Offline,"Bbb, Other","Arms, Chest, Legs",Beginner
+c252,Spikeball,2022-10-12T19:30:00+02:00,Evening,90,Long,online,Other,Oosterpark n/a - Amsterdam,Offline,Other,Legs,Beginner
+c253,Freez Session,2022-10-12T16:45:00+02:00,Afternoon,15,Short,Freezlab whole body cryo,Zuid,Olympisch stadion 36 1076 DE Amsterdam,Offline,Other,Full body,Beginner
+c254,Twerk,2022-10-11T20:30:00+02:00,Evening,60,Normal,Spirit'n Roses,Zuid,Albert Cuypstraat 247HS 1073 BH Amsterdam,Offline,"Dance, Other",Full body,Beginner
+c255,Red Light Session,2022-10-17T16:15:00+02:00,Afternoon,15,Short,Freezlab - Red light therapy,Zuid,Olympisch stadion 36 1076 DE Amsterdam,Offline,Other,Full body,Beginner
+c256,Open Gym,2022-10-16T10:00:00+02:00,Morning,60,Normal,Fight District,Centrum,Danzigerbocht 45A 1013 AM Amsterdam,Offline,"Bbb, Boxing, Hiit, Kickboxing, Other","Arms, Chest, Legs",Beginner
+c257,Crosstraining Upper Body,2022-10-17T19:00:00+02:00,Evening,60,Normal,Het Gymlokaal West,West,Dr jan van breemenstraat 3 1056AB Amsterdam,Offline,"Barre, Boxing, Crossfit, Hiit, Kickboxing, Other, Pilates, Pre/post-natal, Yin yoga, Yoga","Arms, Chest",Intermediate
+c258,EMS Training,2022-10-17T11:30:00+02:00,Morning,30,Short,EMS Health Studio - EMS training,West,Langsom 28 1066 EW Amsterdam,Offline,Other,"Core, Legs",Beginner
+c259,Fitness,2022-10-13T09:00:00+02:00,Morning,60,Normal,SQM Gym,Zuid,Veerstraat 73 1075SP Amsterdam,Offline,"Bbb, Boxing, Crossfit, Hiit, Kickboxing, Other",Full body,Beginner
+c260,Freez Session,2022-10-11T12:00:00+02:00,Morning,10,Short,Freezlab whole body cryo,Zuid,Olympisch stadion 36 1076 DE Amsterdam,Offline,Other,Full body,Beginner
+c261,Open Gym,2022-10-11T20:30:00+02:00,Evening,60,Normal,Smart Fit,Oost,Molukkenstraat 200 1098 TW Amsterdam,Offline,"Fitness, Fun",Legs,Beginner
+c262,BAG KICKBOXING HIIT,2022-10-14T08:00:00+02:00,Morning,45,Normal,Underground Sportclub,Centrum,Nieuwe Kerkstraat 5k 1018DW Amsterdam,Offline,"Boxing, Crossfit, Hiit, Kickboxing","Arms, Chest, Legs",Intermediate
+c263,45 min Flow,2022-10-15T13:00:00+02:00,Afternoon,45,Normal,Equal Yoga Hoofdweg,West,Hoofdweg 122 1057DA Amsterdam,Offline,"Hot yoga, Yin yoga",Full body,Beginner
+c264,Personal Training,2022-10-15T11:30:00+02:00,Morning,60,Normal,Active Club,Centrum,Keizersgracht 82 1015CT Amsterdam,Offline,Other,Legs,Beginner
+c265,Bodypump,2022-10-12T19:00:00+02:00,Evening,55,Normal,Fresh Fitness,Zuid,Tolstraat 59 1073 RW Amsterdam,Offline,"Boxing, Cycling, Dance, Fitness, Hiit, Other, Pilates, Yoga",Full body,Intermediate
+c266,SUP verhuur - Vrij SUPPEN,2022-10-14T18:00:52+02:00,Afternoon,60,Normal,Canal Sup x Fuse - locatie Vessel,West,Revaleiland 500 1014 ZG Amsterdam,Offline,Mindfulness,Full body,Beginner
+c267,Booty Workout | Garage |,2022-10-16T11:30:00+02:00,Morning,45,Normal,Femme Gym,West,Vancouverstraat 6hs 1056 DV Amsterdam,Offline,"Barre, Bbb, Body shape, Bootcamp, Boxing, Cycling, Dance, Essentrics, Hiit, Kickboxing, Other, Pilates, Pre/post-natal, Steps, Yin yoga, Yoga","Booty, Core, Legs",Beginner
+c268,OPEN GYM,2022-10-14T07:00:00+02:00,Morning,60,Normal,Great Oost,Oost,Zeeburgerkade 1316 1019VK Amsterdam,Offline,"Bbb, Boxing, Hiit, Other","Arms, Legs",Beginner
+c269,10 minute Tanning Session,2022-10-12T18:15:00+02:00,Afternoon,15,Short,Freezlab - Tanning,Zuid,Olympisch Stadion 36 1076 DE Amsterdam,Offline,Wellness,Full body,Beginner
+c270,Sarphatipark bootcamp basketbalveld,2022-10-14T07:30:00+02:00,Morning,50,Normal,Workout Amsterdam,Zuid,Tweede Jan van der Heijdenstraat 2 1073 VH Amsterdam,Offline,Bootcamp,Legs,Beginner
+c271,Squash baan,2022-10-17T08:00:39+02:00,Morning,60,Normal,Hotel & Wellness Zuiver Squash,Zuid,Koenenkade 8 1081 KH Amsterdam,Offline,"Fitness, Fun, Other, Racket sports",Arms,Beginner
+c272,RORIDE,2022-10-13T19:00:00+02:00,Evening,45,Normal,Rocycle Amsterdam - De Pijp,Zuid,Ceintuurbaan 77 1072EW Amsterdam,Offline,Cycling,Legs,Intermediate
+c273,WOD,2022-10-11T07:00:00+02:00,Morning,60,Normal,Powerbox Amsterdam,Zuid-oost,Keienbergweg 36 1101 GC Amsterdam,Offline,Crossfit,Full body,Intermediate
+c274,Pilates The White Door Studio Way,2022-10-12T17:30:00+02:00,Afternoon,60,Normal,The White Door Studio,West,Visseringstraat 39h 1051 KH Amsterdam,Offline,Yoga,Full body,Beginner
+c275,Outdoor HIT,2022-10-17T08:40:00+02:00,Morning,40,Normal,Fresh Fitness,Zuid,Tolstraat 59 1073 RW Amsterdam,Offline,"Boxing, Cycling, Dance, Fitness, Hiit, Other, Pilates, Yoga",Full body,Intermediate
+c276,RIDE 45,2022-10-17T07:15:00+02:00,Morning,45,Normal,CITY ALPS,Oost,Polderweg 190 1093KP Amsterdam,Offline,"Cycling, Other","Booty, Legs",Beginner
+c277,RORIDE,2022-10-12T18:00:00+02:00,Afternoon,45,Normal,Rocycle Amsterdam - Zuidas,Zuid,Gustav Mahlerlaan 635 1082 MX Amsterdam,Offline,Cycling,Legs,Intermediate
+c278,Core Concepts,2022-10-12T09:15:00+02:00,Morning,60,Normal,Studio 191 De Pijp,Zuid,Lutmastraat 191B 1074 TV Amsterdam,Offline,"Barre, Other, Pilates, Pre/post-natal, Yoga",Full body,Beginner
+c279,HIT TAI Oosterpark,2022-10-13T17:30:39+02:00,Afternoon,29,Short,Bootcamp Tai,Oost,Linnaeusstraat 2C 1092 CK Amsterdam,Offline,"Bootcamp, Hiit",Full body,Beginner
+c280,Open Gym,2022-10-11T07:00:00+02:00,Morning,60,Normal,Het Gymlokaal Noord,Noord,Grasweg 53a 53b 1031HX Amsterdam,Offline,"Barre, Bbb, Boxing, Hiit, Kickboxing, Other, Pilates, Yin yoga, Yoga","Arms, Chest",Intermediate
+c281,Workout Of the Day,2022-10-16T11:30:00+02:00,Morning,60,Normal,Reebok CrossFit 020,Zuid-oost,Hoogoorddreef 3 1101 BA Amsterdam,Offline,Crossfit,Legs,Beginner
+c282,Timeslot,2022-10-14T12:00:00+02:00,Morning,60,Normal,AmstelGym (formerly: Trend Fitness),Oost,Amstelstroomlaan 2 1096 GL Amsterdam,Offline,"Hiit, Other, Pilates",Full body,Intermediate
+c283,Badhuis 2 uur,2022-10-12T17:00:00+02:00,Afternoon,150,Very long,Reloadclub Ladies Only,Oost,Halmaheirastraat 28 1094 RL Amsterdam,Offline,"Dance, Fitness, Mindfulness, Pilates, Wellness, Yoga",Full body,Beginner
+c284,Core Flow,2022-10-14T11:00:00+02:00,Morning,60,Normal,Equal Yoga Rozengracht,Centrum,Rozengracht 191 1016 LZ Amsterdam,Offline,"Bbb, Hot yoga, Yoga",Full body,Beginner
+c285,Open Fitness,2022-10-17T13:00:00+02:00,Afternoon,60,Normal,Louiszoon Health Club Amsterdam,West,Eliza van Calcarstraat 2 1068 RR Amsterdam,Offline,"Bootcamp, Boxing, Cycling, Dance, Fitness, Pilates, Yoga","Booty, Legs",Beginner
+c286,Strength & Cardio Online Workout,2022-10-12T12:00:00+02:00,Morning,45,Normal,BEAT81 - LIVESTREAM,online,Online Class,Online,"Bbb, Bootcamp, Hiit, Other","Booty, Legs",Beginner
+c287,Hot Vinyasa Flow,2022-10-17T18:00:00+02:00,Afternoon,60,Normal,Hot Flow Yoga Zuid (Formerly: Hot Flow Yoga Amsterdam),Zuid,Koninginneweg 221 1075 NX Amsterdam,Offline,Hot yoga,Full body,Beginner
+c288,Hardlooptraining Beginners,2022-10-15T10:30:00+02:00,Morning,60,Normal,Flow-Motion,West,Kattenlaan 13 1054 KA Amsterdam,Offline,Running,"Arms, Chest, Legs",Beginner
+c289,Banenzwemmen (binnen) - 25 meter bad,2022-10-17T17:00:00+02:00,Afternoon,60,Normal,De Mirandabad,Zuid,De Mirandalaan  1079 PA Amsterdam,Offline,Fitness,Full body,Beginner
+c290,Open Gym,2022-10-13T13:00:00+02:00,Afternoon,60,Normal,Smart Fit,Oost,Molukkenstraat 200 1098 TW Amsterdam,Offline,"Fitness, Fun",Legs,Beginner
+c291,Open Gym,2022-10-15T09:00:00+02:00,Morning,60,Normal,Gympact,West,Postjesweg 128G 1061AX Amsterdam,Offline,"Bbb, Bootcamp, Boxing, Fitness, Hiit, Other",Legs,Beginner
+c292,Vrij Klimmen,2022-10-13T11:00:00+02:00,Morning,120,Long,Be Boulder,Zuid,Anthony Fokkerweg 75 1059CP Amsterdam,Offline,"Bouldering, Other",Full body,Beginner
+c293,Pole intermediate,2022-10-17T18:30:00+02:00,Afternoon,75,Long,Pole Dance Factory Amsterdam - Oost,Oost,V6  1096 AN Amsterdam,Offline,"Aerial, Dance, Pole dance",Full body,Beginner
+c294,Timeslot,2022-10-17T17:00:00+02:00,Afternoon,60,Normal,AmstelGym (formerly: Trend Fitness),Oost,Amstelstroomlaan 2 1096 GL Amsterdam,Offline,"Hiit, Other, Pilates",Full body,Intermediate
+c295,Technique training all levels,2022-10-14T18:00:00+02:00,Afternoon,60,Normal,Mejiro Gym,Centrum,Lauriergracht 86 1016 RP Amsterdam,Offline,Martial arts,"Arms, Chest, Legs",Beginner
+c296,OPEN GYM,2022-10-17T10:00:00+02:00,Morning,60,Normal,Great Zuid,Zuid,Ruysdaelstraat 88-90 1071XH Amsterdam,Offline,"Barre, Bbb, Boxing, Hiit, Other, Pilates, Yin yoga, Yoga",Legs,Beginner
+c297,Butt & Legs Online Workout,2022-10-15T11:00:00+02:00,Morning,45,Normal,BEAT81 - LIVESTREAM,online,Online Class,Online,"Bbb, Bootcamp, Hiit, Other","Booty, Legs",Beginner
+c298,Hatha Easy Flow yoga,2022-10-15T10:45:00+02:00,Morning,75,Long,Yoga Spot Buitenveldert,Zuid,Arent Janszoon Ernststraat 665 1082 LG Amsterdam,Offline,"Other, Pilates, Yoga",Full body,Beginner
+c299,Ping Pong battle with friends,2022-10-13T16:00:00+02:00,Afternoon,60,Normal,PONG - house of ping,West,Jan van Galenstraat 315 1056 CB Amsterdam,Offline,"Fun, Racket sports",Full body,Beginner

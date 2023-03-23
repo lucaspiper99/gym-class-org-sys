@@ -1,0 +1,345 @@
+@prefix : <urn:webprotege:ontology:d1d65d57-4549-42ee-9759-f4c055855512#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@base <urn:webprotege:ontology:d1d65d57-4549-42ee-9759-f4c055855512> .
+
+<urn:webprotege:ontology:55fb1516-8d41-4f22-a55e-b4270e888a9c> a owl:Ontology ;
+                                                         	 rdfs:label "Gym Gems: Health and Fitness Classes in Amsterdam" ;
+                                                         	 dct:created "2022-10-19"^^xsd:date ;
+								                             rdfs:comment """This ontology focuses on health and fitness classes in Amsterdam using the vocabulary from schema.org."""@en .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://webprotege.stanford.edu/R22kx5jAzo6FAza9jvk1Ms
+schema:location a owl:ObjectProperty ;
+                                                        rdfs:subPropertyOf owl:topObjectProperty ;
+                                                        rdfs:domain schema:SportsEvent ;
+                                                        rdfs:range schema:HealthClub ;
+                                                        rdfs:comment "The location of, for example, where an event is happening, where an organization is located, or where an action takes place."@en ;
+                                                        rdfs:isDefinedBy <https://schema.org/location> ;
+                                                        rdfs:label "location"@en .
+
+
+###  http://webprotege.stanford.edu/R7QUETAf9ZTHgKMPojJotLg
+schema:exercisePlan a owl:ObjectProperty ;
+                                                         rdfs:subPropertyOf owl:topObjectProperty ;
+                                                         rdfs:domain schema:ExerciseAction ;
+                                                         rdfs:range schema:ExercisePlan ;
+                                                         rdfs:comment "A sub property of instrument. The exercise plan used on this action."@en ;
+                                                         rdfs:isDefinedBy <https://schema.org/exercisePlan> ;
+                                                         rdfs:label "exercisePlan"@en .
+
+
+###  http://webprotege.stanford.edu/R8DtYVG5vLJTYq04EExwtJY
+schema:sportsEvent a owl:ObjectProperty ;
+                                                         rdfs:subPropertyOf owl:topObjectProperty ;
+                                                         rdfs:domain schema:ExerciseAction ;
+                                                         rdfs:range schema:SportsEvent ;
+                                                         rdfs:comment "A sub property of location. The sports event where this action occurred."@en ;
+                                                         rdfs:isDefinedBy <https://schema.org/sportsEvent> ;
+                                                         rdfs:label "sportsEvent"@en .
+
+
+###  http://webprotege.stanford.edu/RBBvQBwWrintBlzezwmtVrk
+schema:audience a owl:ObjectProperty ;
+                                                         rdfs:subPropertyOf owl:topObjectProperty ;
+                                                         rdfs:domain schema:ExercisePlan ;
+                                                         rdfs:range schema:Audience ;
+                                                         rdfs:comment "An intended audience, i.e. a group for whom something was created."@en ;
+                                                         rdfs:isDefinedBy <https://schema.org/audience> ;
+                                                         rdfs:label "audience"@en .
+
+
+###  http://webprotege.stanford.edu/RCDlImyJrrMTTyAsLIJz6B7
+schema:activityDuration a owl:ObjectProperty ;
+                                                         rdfs:subPropertyOf owl:topObjectProperty ;
+                                                         rdfs:domain schema:ExercisePlan ;
+                                                         rdfs:range schema:QuantitativeValue ;
+                                                         rdfs:comment "Length of time to engage in the activity."@en ;
+                                                         rdfs:isDefinedBy <https://schema.org/activityDuration> ;
+                                                         rdfs:label "activityDuration"@en .
+
+
+###  http://webprotege.stanford.edu/RDR7t8wKNZSCTK793SV91g3
+schema:hasOfferCatalog a owl:ObjectProperty ;
+                                                         rdfs:subPropertyOf owl:topObjectProperty ;
+                                                         rdfs:domain schema:OfferCatalog ;
+                                                         rdfs:comment "Indicates an OfferCatalog listing for this Organization, Person, or Service."@en ;
+                                                         rdfs:isDefinedBy <https://schema.org/hasOfferCatalog> ;
+                                                         rdfs:label "hasOfferCatalog"@en .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://webprotege.stanford.edu/R7YUCiqo9B9jrtJtqPUOi2Q
+schema:itemListElement a owl:DatatypeProperty ;
+                                                         rdfs:subPropertyOf owl:topDataProperty ;
+                                                         rdfs:domain schema:OfferCatalog ;
+                                                         rdfs:range xsd:string ;
+                                                         rdfs:comment """For itemListElement values, you can use simple strings (e.g. \"Peter\", \"Paul\", \"Mary\"), existing entities, or use ListItem.
+
+Text values are best if the elements in the list are plain strings. Existing entities are best for a simple, unordered list of existing things in your data. ListItem is used with ordered lists when you want to provide additional context about the element in that list or when the same item might be in different places in different lists."""@en ;
+                                                         rdfs:isDefinedBy <https://schema.org/itemListElement> ;
+                                                         rdfs:label "itemListElement"@en .
+
+
+###  http://webprotege.stanford.edu/R7ysLBw2mkG6lUO1hpX5WK3
+schema:valueReference a owl:DatatypeProperty ;
+                                                         rdfs:subPropertyOf owl:topDataProperty ;
+                                                         rdfs:domain schema:QuantitativeValue ;
+                                                         rdfs:range xsd:string ;
+                                                         rdfs:comment "A secondary value that provides additional information on the original value, e.g. a reference temperature or a type of measurement."@en ;
+                                                         rdfs:isDefinedBy <https://schema.org/valueReference> ;
+                                                         rdfs:label "valueReference"@en .
+
+
+###  http://webprotege.stanford.edu/R8wFvAVwIT9TReArAtFNa8P
+schema:address a owl:DatatypeProperty ;
+                                                         rdfs:subPropertyOf owl:topDataProperty ;
+                                                         rdfs:domain schema:HealthClub ;
+                                                         rdfs:range xsd:string ;
+                                                         rdfs:comment "Physical address of the item."@en ;
+                                                         rdfs:isDefinedBy <https://schema.org/address> ;
+                                                         rdfs:label "address"@en .
+
+
+###  http://webprotege.stanford.edu/R9nrcKKW1dkz0bi52gxDlAL
+schema:eventAttendanceMode a owl:DatatypeProperty ;
+                                                         rdfs:subPropertyOf owl:topDataProperty ;
+                                                         rdfs:domain schema:SportsEvent ;
+                                                         rdfs:range xsd:string ;
+                                                         rdfs:comment "The eventAttendanceMode of an event indicates whether it occurs online, offline, or a mix."@en ;
+                                                         rdfs:isDefinedBy <https://schema.org/eventAttendanceMode> ;
+                                                         rdfs:label "eventAttendanceMode"@en .
+
+
+###  http://webprotege.stanford.edu/RBE6K7BgzuuL02ItFvqoelT
+schema:additionalVariable a owl:DatatypeProperty ;
+                                                         rdfs:subPropertyOf owl:topDataProperty ;
+                                                         rdfs:domain schema:ExercisePlan ;
+                                                         rdfs:range xsd:string ;
+                                                         rdfs:comment "Any additional component of the exercise prescription that may need to be articulated to the patient. This may include the order of exercises, the number of repetitions of movement, quantitative distance, progressions over time, etc."@en ;
+                                                         rdfs:isDefinedBy <https://schema.org/additionalVariable> ;
+                                                         rdfs:label "additionalVariable"@en .
+
+
+###  http://webprotege.stanford.edu/RBfS4Sxj8ccyRJ7po6gNzxz
+schema:doorTime a owl:DatatypeProperty ;
+                                                         rdfs:subPropertyOf owl:topDataProperty ;
+                                                         rdfs:domain schema:SportsEvent ;
+                                                         rdfs:range xsd:dateTime ;
+                                                         rdfs:comment "The time admission will commence."@en ;
+                                                         rdfs:isDefinedBy <https://schema.org/doorTime> ;
+                                                         rdfs:label "doorTime"@en .
+
+
+###  http://webprotege.stanford.edu/RBgdagV64rAP5QmcC11bZ26
+schema:value a owl:DatatypeProperty ;
+                                                         rdfs:subPropertyOf owl:topDataProperty ;
+                                                         rdfs:domain schema:QuantitativeValue ;
+                                                         rdfs:range xsd:int ;
+                                                         rdfs:comment "The value of the quantitative value or property value node."@en ;
+                                                         rdfs:isDefinedBy <https://schema.org/value> ;
+                                                         rdfs:label "value"@en .
+
+
+###  http://webprotege.stanford.edu/RBpzNZQ4tfrKSqGVUUpK8Gt
+schema:name a owl:DatatypeProperty ;
+                                                         rdfs:subPropertyOf owl:topDataProperty ;
+                                                         rdfs:domain owl:Thing ;
+                                                         rdfs:range xsd:string ;
+                                                         rdfs:comment "The name of the item."@en ;
+                                                         rdfs:isDefinedBy <https://schema.org/name> ;
+                                                         rdfs:label "name"@en .
+
+
+###  http://webprotege.stanford.edu/RBq4Xc24v3SzzchmfKDeQyU
+schema:audienceType a owl:DatatypeProperty ;
+                                                         rdfs:subPropertyOf owl:topDataProperty ;
+                                                         rdfs:domain schema:Audience ;
+                                                         rdfs:range xsd:string ;
+                                                         rdfs:comment "The target group associated with a given audience (e.g. veterans, car owners, musicians, etc.)."@en ;
+                                                         rdfs:isDefinedBy <https://schema.org/audienceType> ;
+                                                         rdfs:label "audienceType"@en .
+
+
+###  http://webprotege.stanford.edu/RBtIObUBrBLMpz5Q8gNxT66
+schema:areaServed a owl:DatatypeProperty ;
+                                                         rdfs:subPropertyOf owl:topDataProperty ;
+                                                         rdfs:domain schema:HealthClub ;
+                                                         rdfs:range xsd:string ;
+                                                         rdfs:comment "The geographic area where a service or offered item is provided."@en ;
+                                                         rdfs:isDefinedBy <https://schema.org/areaServed> ;
+                                                         rdfs:label "areaServed"@en .
+
+
+###  http://webprotege.stanford.edu/RDM7BR6mF0owpe7DcJJW3zV
+schema:identifier a owl:DatatypeProperty ;
+                                                         rdfs:subPropertyOf owl:topDataProperty ;
+                                                         rdfs:domain owl:Thing ;
+                                                         rdfs:range xsd:string ;
+                                                         rdfs:comment "The identifier property represents any kind of identifier for any kind of Thing, such as ISBNs, GTIN codes, UUIDs etc. Schema.org provides dedicated properties for representing many of these, either as textual strings or as URL (URI) links."@en ;
+                                                         rdfs:isDefinedBy <https://schema.org/identifier> ;
+                                                         rdfs:label "identifier"@en .
+
+
+###  http://webprotege.stanford.edu/Rz48mKQFHtQyJD2UMJeW6a
+schema:keywords a owl:DatatypeProperty ;
+                                                        rdfs:subPropertyOf owl:topDataProperty ;
+                                                        rdfs:domain schema:SportsEvent ;
+                                                        rdfs:range xsd:string ;
+                                                        rdfs:comment "Keywords or tags used to describe some item. Multiple textual entries in a keywords list are typically delimited by commas, or by repeating the property."@en ;
+                                                        rdfs:isDefinedBy <https://schema.org/keywords> ;
+                                                        rdfs:label "keywords"@en .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://webprotege.stanford.edu/R5ey8uSzGq5DUflfDUWGeF
+schema:SportsEvent a owl:Class ;
+                                                        rdfs:subClassOf owl:Thing ;
+                                                        rdfs:comment "Event type: Sports event."@en ;
+                                                        rdfs:isDefinedBy <https://schema.org/SportsEvent> ;
+                                                        rdfs:label "SportsEvent"@en .
+
+
+###  http://webprotege.stanford.edu/R7P7mDwT0ZCYowmIN1qEcEW
+schema:Intangible a owl:Class ;
+                                                         rdfs:subClassOf owl:Thing ;
+                                                         rdfs:comment "A utility class that serves as the umbrella for a number of 'intangible' things such as quantities, structured values, etc."@en ;
+                                                         rdfs:isDefinedBy <https://schema.org/Intangible> ;
+                                                         rdfs:label "Intangible"@en .
+
+
+###  http://webprotege.stanford.edu/R8iVvjffVfp42oyUTCDvfcN
+schema:QuantitativeValue a owl:Class ;
+                                                         rdfs:subClassOf schema:Intangible ;
+                                                         rdfs:comment "A point value or interval for product characteristics and other purposes."@en ;
+                                                         rdfs:isDefinedBy <https://schema.org/QuantitativeValue> ;
+                                                         rdfs:label "QuantitativeValue"@en .
+
+
+###  http://webprotege.stanford.edu/R9vuS6SOEAhwtuE0zfSc5yW
+schema:ExercisePlan a owl:Class ;
+                                                         rdfs:subClassOf owl:Thing ;
+                                                         rdfs:comment "Fitness-related activity designed for a specific health-related purpose, including defined exercise routines as well as activity prescribed by a clinician."@en ;
+                                                         rdfs:isDefinedBy <https://schema.org/ExercisePlan> ;
+                                                         rdfs:label "ExercisePlan"@en .
+
+
+###  http://webprotege.stanford.edu/R9wv1NuLqAHXdXiJHdk7jRo
+schema:Audience a owl:Class ;
+                                                         rdfs:subClassOf schema:Intangible ;
+                                                         rdfs:comment "Intended audience for an item, i.e. the group for whom the item was created."@en ;
+                                                         rdfs:isDefinedBy <https://schema.org/Audience> ;
+                                                         rdfs:label "Audience"@en .
+
+
+###  http://webprotege.stanford.edu/RCGdi17UMezDm7Cs4WJZMof
+schema:HealthClub a owl:Class ;
+                                                         rdfs:subClassOf owl:Thing ;
+                                                         rdfs:comment "A health club."@en ;
+                                                         rdfs:isDefinedBy <https://schema.org/HealthClub> ;
+                                                         rdfs:label "HealthClub"@en .
+
+
+###  http://webprotege.stanford.edu/RCh51QmAkWCmfrrQYyfjkv9
+schema:ExerciseAction a owl:Class ;
+                                                         rdfs:subClassOf owl:Thing ;
+                                                         rdfs:comment "The act of participating in exertive activity for the purposes of improving health and fitness."@en ;
+                                                         rdfs:isDefinedBy <https://schema.org/ExerciseAction> ;
+                                                         rdfs:label "ExerciseAction"@en .
+
+
+###  http://webprotege.stanford.edu/ReeMgjgHRZ57WsigrvfnhK
+schema:OfferCatalog a owl:Class ;
+                                                        rdfs:subClassOf schema:Intangible ;
+                                                        rdfs:comment "An OfferCatalog is an ItemList that contains related Offers and/or further OfferCatalogs that are offeredBy the same provider."@en ;
+                                                        rdfs:isDefinedBy <https://schema.org/OfferCatalog> ;
+                                                        rdfs:label "OfferCatalog"@en .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://webprotege.stanford.edu/R7vq5twt2XLBFkSaYPEWcQb
+<http://webprotege.stanford.edu/R7vq5twt2XLBFkSaYPEWcQb> a owl:NamedIndividual ,
+                                                                  schema:SportsEvent ;
+                                                         schema:location <http://webprotege.stanford.edu/R8954756QoKltQje3L1qmIU> ;
+                                                         schema:eventAttendanceMode "attendance_mode"@en ;
+                                                         schema:doorTime "start_time"@en ;
+                                                         schema:keywords "start_time_tag"^^xsd:string ;
+                                                         rdfs:comment "A health or fitness class event."@en ;
+                                                         rdfs:label "class_event"@en .
+
+
+###  http://webprotege.stanford.edu/R8954756QoKltQje3L1qmIU
+<http://webprotege.stanford.edu/R8954756QoKltQje3L1qmIU> a owl:NamedIndividual ,
+                                                                  schema:HealthClub ;
+                                                         schema:hasOfferCatalog <http://webprotege.stanford.edu/RCGxCNEqjx5YG8w0fNx3NEI> ;
+                                                         schema:address "address"@en ;
+                                                         schema:name "health_club_name"@en ;
+                                                         schema:areaServed "area"@en ;
+                                                         rdfs:comment "Health or fitness club in Amsterdam."@en ;
+                                                         rdfs:label "health_club"@en .
+
+
+###  http://webprotege.stanford.edu/R8mQ3Nf4XgBPSPOu5LOHZhQ
+<http://webprotege.stanford.edu/R8mQ3Nf4XgBPSPOu5LOHZhQ> a owl:NamedIndividual ,
+                                                                  schema:ExerciseAction ;
+                                                         schema:exercisePlan <http://webprotege.stanford.edu/R9ikqFi9T9fUwc9WbeXLLDZ> ;
+                                                         schema:sportsEvent <http://webprotege.stanford.edu/R7vq5twt2XLBFkSaYPEWcQb> ;
+                                                         schema:name "class_name"@en ;
+                                                         schema:identifier "id"@en ;
+                                                         rdfs:comment "A health or fitness class."@en ;
+                                                         rdfs:label "class"@en .
+
+
+###  http://webprotege.stanford.edu/R9ikqFi9T9fUwc9WbeXLLDZ
+<http://webprotege.stanford.edu/R9ikqFi9T9fUwc9WbeXLLDZ> a owl:NamedIndividual ,
+                                                                  schema:ExercisePlan ;
+                                                         schema:audience <http://webprotege.stanford.edu/RB7yZOP6eovJvcAZn2iJfc1> ;
+                                                         schema:activityDuration <http://webprotege.stanford.edu/RB2RwtuTWyZEd1doJWqPEJa> ;
+                                                         schema:keywords "muscle_group"^^xsd:string ;
+                                                         rdfs:comment "A workout plan for a health and fitness class."@en ;
+                                                         rdfs:label "class_plan"@en .
+
+
+###  http://webprotege.stanford.edu/RB2RwtuTWyZEd1doJWqPEJa
+<http://webprotege.stanford.edu/RB2RwtuTWyZEd1doJWqPEJa> a owl:NamedIndividual ,
+                                                                  schema:QuantitativeValue ;
+                                                         schema:valueReference "duration_tag"@en ;
+                                                         schema:value "duration_value"@en ;
+                                                         rdfs:comment "Duration of a health and fitness class in Amsterdam in minutes."@en ;
+                                                         rdfs:label "duration"@en .
+
+
+###  http://webprotege.stanford.edu/RB7yZOP6eovJvcAZn2iJfc1
+<http://webprotege.stanford.edu/RB7yZOP6eovJvcAZn2iJfc1> a owl:NamedIndividual ,
+                                                                  schema:Audience ;
+                                                         schema:audienceType "audience_type"@en ;
+                                                         rdfs:comment "The audience for a fitness and health class in Amsterdam."@en ;
+                                                         rdfs:label "audience"@en .
+
+
+###  http://webprotege.stanford.edu/RCGxCNEqjx5YG8w0fNx3NEI
+<http://webprotege.stanford.edu/RCGxCNEqjx5YG8w0fNx3NEI> a owl:NamedIndividual ,
+                                                                  schema:OfferCatalog ;
+                                                         schema:itemListElement "sport"@en ;
+                                                         rdfs:comment "A class catalog from a health and fitness club."@en ;
+                                                         rdfs:label "sport_catalog"@en .
+
+
+###  Generated by the OWL API (version 4.5.13) https://github.com/owlcs/owlapi

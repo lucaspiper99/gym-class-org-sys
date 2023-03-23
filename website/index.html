@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>Gym Gems</title>
+    
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="57x57" href="/faviconsapple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="favicons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="favicons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="favicons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="favicons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="favicons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="favicons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="favicons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="favicons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="favicons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="favicons/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicons/favicon-16x16.png">
+    <link rel="manifest" href="favicons/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="favicons/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    
+
+    <!-- Bootstrap CSS CDN -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- Font Awesome JS -->
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/solid.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/fontawesome.js" integrity="sha384-6OIrr52G08NpOFSZdxxz1xdNSndlD4vdcf/q2myIUVO0VsqaGHJsB0RaBE01VTOY" crossorigin="anonymous"></script>
+    
+    <!-- jQuery CDN - Slim version (=without AJAX) -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <!-- Popper.JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+    <!-- Bootstrap JS -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
+    
+    <!-- Custom JS -->
+    <script type="text/javascript" src="js/dataset.js"></script>
+    <script src="js/script.js"></script>
+</head>
+
+<body>
+    <div class="wrapper">
+        <!-- Sidebar  -->
+        <nav id="sidebar">
+            <div class="sidebar-header">
+                <h4>Gym Gems</h4>
+            </div>
+
+            <ul class="list-unstyled components">
+                <p>Fitness and Health Classes in Amesterdam</p>
+                <li>
+                    <a id="allClasses" href="#">All Classes</a>
+                </li>
+                <li class="active">
+                    <a href="#locationSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Location</a>
+                    <ul class="collapse list-unstyled" id="locationSubmenu">
+                        <li>
+                            <a id="online" href="#">Online</a>
+                        </li>
+                        <li>
+                            <a id="centrum" href="#">Centrum</a>
+                        </li>
+                        <li>
+                            <a id="noord" href="#">Noord</a>
+                        </li>
+                        <li>
+                            <a id="west" href="#">West</a>
+                        </li>
+                        <li>
+                            <a id="zuid" href="#">Zuid</a>
+                        </li>
+                        <li>
+                            <a id="zuid-oost" href="#">Zuid-Oost</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="active">
+                    <a href="#muscleGroupSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Muscle Group</a>
+                    <ul class="collapse list-unstyled" id="muscleGroupSubmenu">
+                        <li>
+                            <a id="full body" href="#">Full Body</a>
+                        </li>
+                        <li>
+                            <a id="legs" href="#">Legs</a>
+                        </li>
+                        <li>
+                            <a id="booty" href="#">Booty</a>
+                        </li>
+                        <li>
+                            <a id="core" href="#">Core</a>
+                        </li>
+                        <li>
+                            <a id="chest" href="#">Chest</a>
+                        </li>
+                        <li>
+                            <a id="arms" href="#">Arms</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="active">
+                    <a href="#dayOfTheWeekSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Day of the Week</a>
+                    <ul class="collapse list-unstyled" id="dayOfTheWeekSubmenu">
+                        <li>
+                            <a id="monday" href="#">Monday</a>
+                        </li>
+                        <li>
+                            <a id="tuesday" href="#">Tuesday</a>
+                        </li>
+                        <li>
+                            <a id="wednesday" href="#">Wednesday</a>
+                        </li>
+                        <li>
+                            <a id="thursday" href="#">Thursday</a>
+                        </li>
+                        <li>
+                            <a id="friday" href="#">Friday</a>
+                        </li>
+                        <li>
+                            <a id="saturday" href="#">Saturday</a>
+                        </li>
+                        <li>
+                            <a id="sunday" href="#">Sunday</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="active">
+                    <a href="#startTimeSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Start Time</a>
+                    <ul class="collapse list-unstyled" id="startTimeSubmenu">
+                        <li>
+                            <a id="05-12" href="#">Morning (5am-12pm)</a>
+                        </li>
+                        <li>
+                            <a id="12-18" href="#">Afternoon (12pm-18pm)</a>
+                        </li>
+                        <li>
+                            <a id="18-23" href="#">Evening (18pm-23pm)</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="active">
+                    <a href="#durationSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Duration</a>
+                    <ul class="collapse list-unstyled" id="durationSubmenu">
+                        <li>
+                            <a id="000-030" href="#">Short (up to 30 min)</a>
+                        </li>
+                        <li>
+                            <a id="030-060" href="#">Normal (up to 60 min)</a>
+                        </li>
+                        <li>
+                            <a id="060-120" href="#">Long (up to 120 min)</a>
+                        </li>
+                        <li>
+                            <a id="120-300" href="#">Very Long (more than 120 min)</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="active">
+                    <a href="#difficultySubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Difficulty</a>
+                    <ul class="collapse list-unstyled" id="difficultySubmenu">
+                        <li>
+                            <a id="beginner" href="#">Beginner</a>
+                        </li>
+                        <li>
+                            <a id="intermediate" href="#">Intermediate</a>
+                        </li>
+                        <li>
+                            <a id="advanced" href="#">Advanced</a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+
+        <!-- Page Content  -->
+        <div id="content">
+            
+            <div class="d-flex justify-content-center mb-4">
+                <h1 class="text-dark">Gym Gems</h1>
+            </div>
+
+            <nav class="navbar navbar-expand-lg navbar-light bg-light d-flex justify-content-between align-items-center" id="mainBar">
+                <div class="col-md-1 justify-content-right">
+                    <button type="button" id="sidebarCollapse" class="btn btn-light" data-toggle="collapse" aria-expanded="false">
+                        <i class="fas fa-align-left"></i>
+                    </button>
+                </div>
+                <div class="col-md-11" id="searchContainer">
+                    <div class="d-flex form-inputs">
+                        <input class="form-control" id="searchInput" type="text" placeholder="Search for any class...">
+                    </div>
+                </div>
+            </nav>
+            
+            <div class="card-body container d-flex flex-wrap justify-content-center" id="classList">
+            </div>
+        </div>
+    </div>
+</body>
+</html>
